@@ -1,0 +1,24 @@
+fecha,proveedor,bloque,subbloque,concepto,documento,pedido_o_ref,importe_total_eur,usar_hacienda,nivel_soporte,observaciones
+2023-11-28,OBRAMAT,reforma,obra_reforma,Materiales reforma pedido 228131,Factura 003-0011-399514,228131,,SI,FUERTE,Factura duplicada con titular NIF y direccion de Menendez Pidal
+2023-12-07,OBRAMAT,reforma,obra_reforma,Materiales reforma pedido 228543,Factura 003-0012-404381,228543,,SI,FUERTE,Factura duplicada con titular NIF y direccion de Menendez Pidal
+2024-01-17,OBRAMAT,reforma,obra_reforma,Materiales reforma pedido 229407,Factura 003-0001-424413,229407,,SI,FUERTE,Factura duplicada con titular NIF y direccion de Menendez Pidal
+2024-02-08,OBRAMAT,reforma,obra_reforma,Materiales reforma pedido 230379,Factura 003-0002-437264,230379,,SI,FUERTE,Factura duplicada con titular NIF y direccion de Menendez Pidal
+2024-04-15,CECOTEC,reforma,equipamiento_fijo,Frigorifico Bolero CoolMarket Combi 250 White E,Factura 259006389,256CEC-259006389,329.00,SI,FUERTE,Factura nominativa sustitutiva de simplificada
+2024-04-19,CECOTEC,mobiliario,mobiliario_y_equipamiento,Colchon Flow Viscocare 1900 120x190 unidad 1,Factura 259006390,256CEC-259006390,119.00,SI,FUERTE,Factura nominativa sustitutiva de simplificada
+2024-04-19,CECOTEC,mobiliario,mobiliario_y_equipamiento,Colchon Flow Viscocare 1900 120x190 unidad 2,Factura 259006391,256CEC-259006391,119.00,SI,FUERTE,Factura nominativa sustitutiva de simplificada
+2024-04-19,CECOTEC,mobiliario,mobiliario_y_equipamiento,Colchon Flow Viscocare 1900 120x190 unidad 3,Factura 259006392,256CEC-259006392,119.00,SI,FUERTE,Factura nominativa sustitutiva de simplificada
+2024-04-19,CECOTEC,mobiliario,mobiliario_y_equipamiento,Colchon Flow Viscocare 1900 120x190 unidad 4,Factura 259006393,256CEC-259006393,119.00,SI,FUERTE,Factura nominativa sustitutiva de simplificada
+2024-06-10,AMAZON,mobiliario,mobiliario_y_equipamiento,4 bases tapizadas 120x190,Pedido Amazon + factura ES421LCLRAEUS,402-6402422-7836305,351.96,SI,FUERTE,Detalle de pedido con envio a Menendez Pidal; la factura visible es unitaria pero Jero confirma 4 unidades
+2024-06-20,IKEA,mobiliario,mobiliario_y_equipamiento,Compra tienda IKEA ticket simplificado,Factura simplificada SIM_691_2024/0174981,SIM_691_2024/0174981,369.21,PENDIENTE,FLOJO,Ticket real pero sin nombre NIF ni direccion visibles en el extracto compartido
+2024-06-26,IKEA,mobiliario,mobiliario_y_equipamiento,Compra IKEA con entrega a Menendez Pidal,Factura ESSIM24000000034880,1443737502,579.16,SI,FUERTE,Direccion de envio a Menendez Pidal y detalle completo de articulos
+2024-07-09,IKEA,mobiliario,mobiliario_y_equipamiento,Compra tienda IKEA ticket simplificado,Factura simplificada SIM_691_2024/0195936,SIM_691_2024/0195936,142.21,PENDIENTE,FLOJO,Ticket real pero sin nombre NIF ni direccion visibles en el extracto compartido
+2024-07-07,AMAZON,mobiliario,mobiliario_y_equipamiento,Almohadas y protectores enviado a Viator,Factura ES421LCLPAEUS,404-8694384-4720359,161.93,NO,PROPIO_PERO_EXCLUIDO,Jero decide no usar en Hacienda al enviarse a Grupo Chemie Viator
+2024-07-08,AMAZON,mobiliario,mobiliario_y_equipamiento,Fundas de almohada enviado a Viator,Factura ES421LCLQAEUS,404-2782946-5035510,45.56,NO,PROPIO_PERO_EXCLUIDO,Jero decide no usar en Hacienda al enviarse a Grupo Chemie Viator
+2024-07-08,AMAZON,mobiliario,mobiliario_y_equipamiento,Escobillas WC enviado a Viator,Factura ES421LCLOAEUS,404-6553842-1560302,10.48,NO,PROPIO_PERO_EXCLUIDO,Jero decide no usar en Hacienda al enviarse a Grupo Chemie Viator
+2024-07-11,AMAZON,mobiliario,mobiliario_y_equipamiento,Posteres enviado a Viator,Factura DS-ASE-INV-ES-2024-62121755,404-8326125-2181120,18.69,NO,PROPIO_PERO_EXCLUIDO,Jero decide no usar en Hacienda al enviarse a Grupo Chemie Viator
+2024-07-11,AMAZON,mobiliario,mobiliario_y_equipamiento,Rellenos de cojines enviado a Viator,Factura SIM-INV-ES-1461148515-2024-688,404-9365037-7246721,36.80,NO,PROPIO_PERO_EXCLUIDO,Jero decide no usar en Hacienda al enviarse a Grupo Chemie Viator
+2024-07-15,AMAZON,mobiliario,mobiliario_y_equipamiento,Microondas enviado a Viator,Factura ES421LCLNAEUS,402-6883202-0465961,51.90,NO,PROPIO_PERO_EXCLUIDO,Jero decide no usar en Hacienda al enviarse a Grupo Chemie Viator
+,,,,,,,,,,
+,INGRESOS,alquiler,pendiente_por_cargar,,,,,PENDIENTE,,Falta cargar ingresos reales del alquiler
+,GASTOS_CORRIENTES,alquiler,pendiente_por_cargar,,,,,PENDIENTE,,Falta cargar luz agua comunidad internet etc si aplica
+,PAGOS_SEBASTIAN,reforma,pendiente_por_cruzar,,,,,PENDIENTE,,Falta cruzar justificantes de pago con facturas/presupuestos y criterio final
