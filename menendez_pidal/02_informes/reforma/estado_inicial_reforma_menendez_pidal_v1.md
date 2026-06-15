@@ -68,9 +68,15 @@ Ya existen piezas de control separadas para:
 - `estado_pago_y_soporte_reforma_menendez_pidal_v1.md`
 
 ## Meta futura
-Una vez cargadas todas las facturas y justificantes, construir:
+Este bloque quedó sustancialmente superado por la matriz v3 y el anexo OBRAMAT línea a línea incorporados después.
+
+La meta inicial era construir:
 1. tabla maestra final de reforma
 2. suma total invertida depurada
 3. clasificación por tipo de gasto
 4. cruce entre gasto, pago y soporte documental
 5. nota fiscal/práctica sobre qué podría servir y qué no
+
+Estado a 2026-06-15:
+- esa meta ya está cubierta en gran medida por `analisis_final_vigente/`
+- este documento conserva valor como foto del arranque y de los primeros frentes detectados

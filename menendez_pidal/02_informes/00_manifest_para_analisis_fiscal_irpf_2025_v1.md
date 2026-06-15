@@ -365,11 +365,16 @@ Pendiente:
 
 ### 9. Reforma / obra / materiales / equipamiento
 
+**Nota de vigencia:** el criterio vigente del bloque reforma ya no es la tabla v2 ni las notas iniciales de lotes, sino la combinacion de **matriz fiscal v3 + anexo OBRAMAT linea a linea + certificado del contratista**.
+
 Archivos relevantes:
 
+- `menendez_pidal/02_informes/reforma/analisis_final_vigente/2026-06-14_matriz_clasificacion_fiscal_reforma_menendez_pidal_v3_linea_a_linea.docx`
+- `menendez_pidal/02_informes/reforma/analisis_final_vigente/2026-06-14_anexo_obramat_clasificacion_linea_a_linea.xlsx`
+- `menendez_pidal/02_informes/reforma/resumen_obramat_menendez_pidal_v1.md`
+- `menendez_pidal/02_informes/reforma/estado_pago_y_soporte_reforma_v1.md`
+- `menendez_pidal/02_informes/reforma_menendez_pidal_cruce_extractos_y_pagos_obra_v1.md`
 - `menendez_pidal/02_informes/reforma/estado_inicial_reforma_menendez_pidal_v1.md`
-- `menendez_pidal/02_informes/reforma/nota_lote_2026_06_07_01_v1.md`
-- `menendez_pidal/02_informes/reforma/nota_lote_2026_06_07_02_v1.md`
 
 Documentos fuente que deberian incluirse:
 
@@ -377,24 +382,37 @@ Documentos fuente que deberian incluirse:
 - Certificado de trabajos realizados de Multiservicios SB.
 - Factura fontaneria SB 006/2023.
 - Presupuesto SB R 012/2023.
-- Facturas Obramat.
-- Pedidos web Obramat.
-- Anticipos Obramat.
+- 4 facturas principales OBRAMAT ya validadas.
+- Pedidos web OBRAMAT correspondientes.
+- Anticipos OBRAMAT solo como soporte de trazabilidad, no como suma adicional.
 - Justificantes bancarios de pago a contratista.
 - Tabla de cruce factura-pago.
-- CSVs de control de lotes.
 - Fotos antes/despues si existen.
+- Matriz v3 y anexo OBRAMAT linea a linea.
 
 Datos ya trabajados:
 
 - Factura principal SB 014/2024: 16.335,00 EUR IVA incluido.
 - Base: 13.500,00 EUR.
 - IVA: 2.835,00 EUR.
-- Conceptos: reforma general en bano, muros pladur, alisado paredes, suelo parquet, pintura.
-- Factura fontaneria SB 006/2023: 181,50 EUR.
-- Obramat lote 01 utilizable provisional: 444,72 EUR, evitando duplicar anticipos.
-- Obramat lote 02 facturas cerradas nuevas: 16.697,77 EUR incluyendo la factura principal SB y dos facturas Obramat.
-- Hay anticipos relevantes pendientes de netear, incluido un anticipo Obramat de 4.803,37 EUR.
+- Certificado del contratista con separacion fiscal ya asumida:
+  - 6.900,00 EUR reparacion / conservacion.
+  - 9.435,00 EUR nueva creacion / redistribucion.
+- OBRAMAT principal analizado linea a linea en 4 facturas reales:
+  - total 6.152,09 EUR.
+  - reparacion 1.325,12 EUR.
+  - mejora 4.717,97 EUR.
+  - fuera 109,00 EUR por termo, por criterio prudente.
+- Facturas satelite localizadas pero no reclamadas en la v3:
+  - 80,19 EUR.
+  - 21,90 EUR.
+  - 227,77 EUR.
+  - 135,00 EUR.
+- Mobiliario y equipamiento documentado: 1.736,12 EUR.
+- Pool reforma documentado adoptado en criterio prudente:
+  - total reforma 22.487,09 EUR.
+  - reparacion 8.225,12 EUR.
+  - mejora 14.152,97 EUR.
 
 Aclaracion importante ya fijada:
 
@@ -403,31 +421,25 @@ Aclaracion importante ya fijada:
 - Si hubo transformacion de un bano anterior en dos banos completos.
 - Si hubo reconfiguracion interior del salon hacia habitacion + pasillo/comedor.
 
-Riesgo fiscal principal:
+Criterio fiscal vigente:
 
 - No conviene tratar toda la obra como conservacion pura.
-- Hay que separar:
-  - reparacion/conservacion,
-  - mejora/reconfiguracion,
-  - mobiliario/equipamiento,
-  - simples anticipos,
-  - documentos que son presupuesto y no factura,
-  - pagos sin factura,
-  - facturas sin pago.
+- Se respeta como bloque cerrado el certificado del contratista.
+- OBRAMAT se clasifica partida a partida conforme a la matriz v3.
+- Ante la duda, mejora.
+- Termo y splits quedan fuera por falta de soporte o por criterio prudente del contribuyente.
+- Los anticipos OBRAMAT no se suman aparte cuando ya estan absorbidos por factura final.
 
 Estado:
 
-- FUERTE: factura SB 014/2024 si se adjunta original y pago.
-- PROVISIONAL: tratamiento fiscal de la obra.
-- DUDOSO: anticipos Obramat sin cruce con factura final.
-- EXCLUIBLE: presupuestos no facturados o importes duplicados.
+- FUERTE: factura SB 014/2024 + certificado + 4 facturas principales OBRAMAT + matriz v3 + anexo linea a linea.
+- PROVISIONAL/FUERTE: cruce de pagos del contratista, suficientemente util para narrativa y soporte.
+- EXCLUIBLE: anticipos duplicados, tickets flojos sin buen puente documental, presupuestos no facturados, termo y splits no soportados.
 
 Pendiente:
 
-- Tabla maestra final de reforma.
-- Cruce completo de facturas vs pagos.
-- Clasificacion fiscal partida a partida.
-- Separacion gasto corriente vs mejora/amortizacion.
+- Fijar mejor anclaje temporal o metadatos de las fotos antes/despues.
+- Si se quisiera afinar aun mas, podria revisarse en el futuro la reincorporacion de satelites OBRAMAT no reclamados, pero no es necesario para la defensa prudente actual.
 
 ---
 

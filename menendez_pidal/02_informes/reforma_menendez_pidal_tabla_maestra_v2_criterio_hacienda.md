@@ -1,5 +1,9 @@
 # Reforma Menéndez Pidal tabla maestra v2 criterio Hacienda
 
+> **Estado 2026-06-15:** documento historico util, pero **superado como criterio vigente** por la matriz v3 y el anexo OBRAMAT linea a linea incorporados en `menendez_pidal/02_informes/reforma/analisis_final_vigente/`.
+> Si hay contradiccion, prevalece la v3.
+
+
 ## Objetivo
 Cruzar la tabla maestra económica de reforma con la solidez documental ya revisada para dejar una versión más útil de cara a Hacienda.
 
