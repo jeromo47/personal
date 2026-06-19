@@ -40,12 +40,12 @@ Alinear el trabajo documental y fiscal del piso de Menéndez Pidal con la estruc
 ## Documentación pendiente
 | Documento | Detalle exigible | Estado real | Prioridad | Acción |
 |---|---|---|---|---|
-| Modelo 600 complementaria | Si existió, importe y fecha exactos | No confirmado | Media | Localizar o descartar expresamente |
-| Factura notaría compraventa | Importe y concepto | Pendiente | Baja | Localizar |
-| Factura notaría hipoteca | Importe y concepto | Pendiente | Baja | Localizar |
-| Factura Registro de la Propiedad | Importe y concepto | Pendiente | Baja | Localizar |
-| Factura gestoría | Compra e hipoteca, con desglose | Pendiente | Baja | Localizar |
-| Hoja de base amortizable | Precio compra + ITP completo + gastos adquisición - valor suelo | Pendiente | Alta | Construir |
+| Modelo 600 complementaria | Si existió, importe y fecha exactos | No confirmada y no se va a perseguir salvo aparición documental | Baja | Dejar como no acreditada por ahora |
+| Factura notaría compraventa | Importe y concepto | No disponible y no se va a buscar ahora | Baja | Dejar fuera |
+| Factura notaría hipoteca | Importe y concepto | No disponible y no se va a buscar ahora | Baja | Dejar fuera |
+| Factura Registro de la Propiedad | Importe y concepto | No disponible y no se va a buscar ahora | Baja | Dejar fuera |
+| Factura gestoría | Compra e hipoteca, con desglose | No disponible y no se va a buscar ahora | Baja | Dejar fuera |
+| Hoja de base amortizable | Precio compra + ITP completo + gastos adquisición - valor suelo | Pendiente | Alta | Reconstruir con escritura, ITP y datos catastrales disponibles |
 
 ## Nota de criterio
 - Este bloque mejora mucho la calidad de la amortización, pero no es la prioridad 1 para cerrar el resultado 2025.
@@ -65,7 +65,7 @@ Alinear el trabajo documental y fiscal del piso de Menéndez Pidal con la estruc
 ## Documentación pendiente
 | Documento | Detalle exigible | Estado real | Prioridad | Acción |
 |---|---|---|---|---|
-| Resumen anual de intereses 2024 | Si va a entrar en rectificación/arrastre | No confirmado aquí como archivado final | Media | Verificar y reunir |
+| Resumen anual de intereses 2024 | Si va a entrar en rectificación/arrastre | Importe ya fijado en `1.460,88 €`; falta solo dejar soporte archivado de forma más visible si se quiere | Alta | Mantener como cifra buena de trabajo |
 | Extracto hipotecario anual 2025 | Cuotas, capital e intereses del ejercicio completo | Parcial | Media | Consolidar si no está ya en carpeta final |
 
 ---
@@ -105,20 +105,22 @@ Alinear el trabajo documental y fiscal del piso de Menéndez Pidal con la estruc
 | Facturas de los 4 splits | Si existen | No se aportarán | Baja | Mantener fuera |
 
 ## Criterio ya validado
-- Para la factura `014/2024`, el certificado del contratista se respeta como bloque cerrado:
-  - `6.900,00 €` reparación / conservación
-  - `9.435,00 €` nueva creación / redistribución
-- Para OBRAMAT, se adopta la clasificación línea a línea de la v3:
-  - total analizado `6.152,09 €`
-  - reparación `1.325,12 €`
-  - mejora `4.717,97 €`
-  - fuera `109,00 €` (termo)
-- Resultado consolidado del pool de reforma documentado:
-  - `22.487,09 €` total reforma
-  - `8.225,12 €` reparación
-  - `14.152,97 €` mejora
+- La primera separación del certificado del contratista (`6.900,00 €` reparación / `9.435,00 €` nueva creación / redistribución) queda archivada como soporte de trabajo, pero el criterio final más prudente fijado por Jero es aún más estrecho.
+- Reparación/gasto directo defendible: solo
+  - `2.300,00 €` alisado
+  - `2.150,00 €` pintura
+  - total `4.450,00 €`
+- Todo lo demás se lleva a mejora:
+  - resto de mano de obra del contratista
+  - redistribución
+  - baños
+  - tabiquería / pladur
+  - carpintería
+  - suelos
+  - y materiales OBRAMAT
+- Mobiliario amortizable consolidado: `1.736,12 €`
 - No tratar toda la reforma como reparación pura.
-- Ante la duda, mejora. Termo y satélites no reclamados por prudencia.
+- Termo y satélites no reclamados por prudencia.
 
 ---
 
@@ -136,10 +138,10 @@ Alinear el trabajo documental y fiscal del piso de Menéndez Pidal con la estruc
 ## Documentación pendiente
 | Documento | Detalle exigible | Estado real | Prioridad | Acción |
 |---|---|---|---|---|
-| 3 contratos nuevos restantes | Habitaciones 2, 3 y 4, firmados | Pendiente | Muy alta | Reunir |
+| 3 contratos nuevos restantes | Habitaciones 2, 3 y 4, firmados | Los firmados existen en expediente/inbound; conviene archivarlos de forma más visible si hace falta | Media | Mantener localizados |
 | Justificante ingreso inmobiliaria septiembre/agosto | Recibo/liquidación del cobro o gestión | Pendiente | Muy alta | Pedir a inmobiliaria |
 | Justificantes de las 4 fianzas | `300 € × 4`, con identificación de pagadores | Parcial | Media | Reunir |
-| Tabla final de ingresos por habitación | Cronología completa de ingresos y ocupación | Pendiente | Alta | Consolidar |
+| Tabla final de ingresos por habitación | Cronología completa de ingresos y ocupación | Parcialmente cerrada en criterio, pendiente de volcado final limpio | Alta | Consolidar con dos etapas: tramo antiguo y tramo nuevo |
 
 ---
 
@@ -159,6 +161,7 @@ Alinear el trabajo documental y fiscal del piso de Menéndez Pidal con la estruc
 |---|---|---|---|---|
 | 12 facturas de luz 2025 | No solo cargos bancarios | Pendiente | Muy alta | Descargar del área de cliente |
 | Facturas de agua 2025 | Las del año | Pendiente | Alta | Descargar / reunir |
+| Recibos tasa de basura 2025 | Soporte del importe anual | Ya existe dato `64,77 €`; conviene archivar recibos | Media | Guardar soporte |
 | Hoja de prorrateo | Fórmula visible: gasto × espacio × días/365 | Pendiente | Muy alta | Construir |
 | Decisión internet | Incluir o excluir en versión final | Pendiente | Media | Decidir |
 | Decisión mantenimiento cuenta | Incluir o excluir en versión final | Pendiente | Media | Mejor dejar fuera salvo decisión expresa |
@@ -168,6 +171,7 @@ Alinear el trabajo documental y fiscal del piso de Menéndez Pidal con la estruc
 - Luz: `633,50 €`
 - Comunidad: `240,00 €`
 - IBI: `256,26 €`
+- Basura: `64,77 €`
 - Seguro hogar: `331,36 €`
 - Intereses hipotecarios: `1.423,76 €`
 - Internet: `144,03 €` (opcional)
@@ -183,7 +187,7 @@ Aplicar la reducción únicamente a las habitaciones / inquilinos respecto de lo
 ## Documentación pendiente por inquilino
 | Documento | Detalle exigible | Estado real | Prioridad | Acción |
 |---|---|---|---|---|
-| Declaración responsable | Modelo ya preparado; falta firma por cada inquilino | Alta | Muy alta | Personalizar y firmar |
+| Declaración responsable | Modelo y versiones personalizadas ya preparados; falta firma por cada inquilino | Alta | Muy alta | Firmar |
 | Certificado de empadronamiento | Si existe | Pendiente | Alta | Pedir a inquilinos |
 | Prueba laboral | Nómina, contrato, certificado de empresa, vida laboral o equivalente | Pendiente | Alta | Pedir a inquilinos |
 | Indicio complementario | Domiciliación, correspondencia u otro indicio serio | Opcional | Baja | Pedir solo si hace falta reforzar |
@@ -198,7 +202,7 @@ Aplicar la reducción únicamente a las habitaciones / inquilinos respecto de lo
 | Pieza | Estado real | Prioridad | Acción |
 |---|---|---|---|
 | Tabla inquilino a inquilino de reducción defendible | Primera versión creada en `02_informes/tabla_reduccion_50_inquilino_a_inquilino_menendez_pidal_v1.md` | Muy alta | Actualizar a medida que entren anexos, declaraciones y pruebas |
-| Modelo de adenda / subsanación | Modelo ya preparado; falta personalización y firma por habitación | Muy alta | Preparar 4 versiones y firmar |
+| Modelo de adenda / subsanación | Modelo y 4 versiones personalizadas ya preparados; falta firma por habitación | Muy alta | Firmar |
 
 ---
 
@@ -210,7 +214,7 @@ Aplicar la reducción únicamente a las habitaciones / inquilinos respecto de lo
 | Renta 2024 presentada | PDF oficial + justificante | Tienes | Alta | Mantener |
 | Justificante Renta 2024 | `1005346922456` | Tienes | Alta | Mantener |
 | CSV Renta 2024 | `BXH9VXC6972TLB6Z` | Tienes | Alta | Mantener |
-| XML Renta 2024 | Descargado AEAT | Tienes | Alta | Mantener |
+| XML Renta 2024 | No localizado en esta pasada, aunque estaba citado como descargado en trabajo previo | Media | Mantener solo si reaparece o confirmar si no hace falta |
 | Renta 2023 | Como escenario alternativo o apoyo | Tienes | Baja | Mantener |
 
 ## Pendiente

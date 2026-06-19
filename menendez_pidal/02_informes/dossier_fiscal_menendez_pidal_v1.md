@@ -40,13 +40,12 @@
   - **60.800,00 €** resto
 
 ### Documentación pendiente
-- Modelo 600 complementario de ITP, si existió.
-- Facturas de notaría de compraventa e hipoteca.
-- Factura del Registro de la Propiedad.
-- Factura de gestoría.
 - Hoja de cálculo de base amortizable: precio de compra + ITP completo + gastos de adquisición, excluyendo valor del suelo.
+- Modelo 600 complementario de ITP, solo si reaparece o se confirma que existió.
 
 ### Nota operativa
+- Se da por bueno, como criterio de trabajo actual, que el ITP se pagó al 100 %.
+- No se van a perseguir ahora facturas de notaría, registro y gestoría si no aparecen.
 - Este bloque no es el más urgente para cerrar 2025, pero sí mejora mucho la calidad de la amortización futura del inmueble.
 
 ---
@@ -65,8 +64,12 @@
   - sistema francés
 
 ### Documentación pendiente
-- Resumen anual de intereses 2024, si finalmente se usa para rectificación o reconstrucción comparativa.
+- Soporte más visible/archivable del importe de intereses 2024, si se quiere reforzar la rectificación.
 - Extracto hipotecario anual 2025 completo, si se quiere consolidar el soporte del ejercicio en una sola pieza.
+
+### Importes ya fijados
+- Intereses 2024: **1.460,88 €**.
+- Intereses 2025: **1.423,76 €**.
 
 ---
 
@@ -79,10 +82,15 @@
 - Justificantes de pago mediante 8 transferencias por importe total aproximado de **16.336,74 €**.
 
 #### Situación fiscal ya disponible
-- El certificado del contratista permite separar la obra principal en:
+- El certificado del contratista permite una primera separación de la obra principal en:
   - **6.900,00 €** reparación / conservación
   - **9.435,00 €** nueva creación / redistribución
-- No se recomienda tratar toda la factura como reparación pura.
+- Sin embargo, el criterio final de trabajo ya fijado es todavía más prudente:
+  - **solo** se tratará como reparación directa:
+    - **2.300,00 €** de alisado
+    - **2.150,00 €** de pintura
+    - total **4.450,00 €**
+- Todo lo demás irá a mejora.
 
 ### Materiales OBRAMAT
 #### Documentación disponible
@@ -102,10 +110,8 @@
 
 #### Criterio v3 ya validado
 - Total OBRAMAT analizado línea a línea (4 facturas principales): **6.152,09 €**
-- Reparación OBRAMAT: **1.325,12 €**
-- Mejora OBRAMAT: **4.717,97 €**
-- Fuera por prudencia: **109,00 €** (termo)
-- Reparto OBRAMAT: **21,9 % reparación / 78,1 % mejora**
+- La clasificación línea a línea de la v3 se conserva como soporte analítico fuerte.
+- No obstante, para el cierre más prudente actual se toma como criterio material que los **materiales OBRAMAT se llevan a mejora**, manteniendo fuera por prudencia el **termo** (`109,00 €`) y dejando sin reclamar los satélites no incorporados.
 
 #### Documentación pendiente
 - Revisar si se quiere incorporar en el futuro los satélites no reclamados en la v3, pero **no son necesarios** para la defensa prudente actual.
@@ -120,16 +126,13 @@
 - `Anexo OBRAMAT Clasificación Línea a Línea`.
 
 #### Criterio fiscal prudente ya validado
-- Se mantiene como bloque cerrado la separación certificada por el contratista sobre su factura:
-  - **6.900,00 €** reparación / conservación
-  - **9.435,00 €** nueva creación / redistribución
-- Sobre OBRAMAT se adopta la clasificación línea a línea de la v3, sin contradecir el certificado del contratista.
-- Resultado del **pool de reforma documentado**:
-  - **22.487,09 €** total reforma
-  - **8.225,12 €** reparación
-  - **14.152,97 €** mejora
-  - **109,00 €** fuera por prudencia
-- La lectura final es conservadora: ante la duda, mejora; termo fuera; satélites no aportados no reclamados.
+- Se conserva el certificado del contratista y la matriz v3 como soporte documental y analítico del expediente.
+- Pero la decisión final de trabajo ya fijada es esta:
+  - **reparación / gasto directo**: solo **4.450,00 €** (`2.300,00 €` alisado + `2.150,00 €` pintura)
+  - **mejora amortizable**: todo lo demás de la obra y materiales
+  - **mobiliario amortizable**: bloque separado de **1.736,12 €**
+  - **fuera por prudencia**: termo y partidas no soportadas suficientemente
+- La lectura final sigue siendo conservadora: ante la duda, mejora.
 
 ### Equipamiento amortizable
 #### Documentación disponible
@@ -161,8 +164,12 @@
 - Modelo contractual OCR actual con lógica de vivienda habitual por habitación.
 
 #### Documentación pendiente
-- Contratos firmados de habitaciones 2, 3 y 4.
 - Adenda de subsanación firmada por los 4 inquilinos.
+- Soporte adicional de residencia real de los 4 inquilinos para defender la reducción del 50 %.
+
+#### Estado ya fijado
+- Los 4 contratos nuevos arrancan el **11/08/2025**.
+- De septiembre a diciembre 2025 se toma como base económica **4 habitaciones × 300 €/mes**.
 
 ### Justificantes de ingresos
 #### Documentación disponible
@@ -185,6 +192,7 @@
 ### Documentación disponible o parcialmente disponible
 - IBI 2025: **256,26 €**.
 - Comunidad 2025: **240,00 €**.
+- Tasa de basura 2025: **64,77 €**.
 - Seguro CASER: **331,36 € / año** por prorrateo del contrato trianual.
 - Internet 2025: **144,03 €**.
 - Intereses hipotecarios 2025: **1.423,76 €**.
@@ -201,8 +209,9 @@
 
 ### Cifra base fiscal ya fijada
 - Ingresos base 2025: **10.825,00 €**
-- Gastos deducibles base recomendados: **3.246,91 €**
-- Rendimiento neto base recomendado: **7.578,09 €**
+- Gastos deducibles base recomendados previos: **3.246,91 €**
+- Ajuste adicional ya identificado: basura 2025 **64,77 €**
+- Rendimiento neto base orientativo actualizado, si se incorpora basura: **7.513,32 €**
 
 ---
 
@@ -223,8 +232,8 @@ Aplicar la reducción del 50% del artículo 23.2 LIRPF únicamente en las habita
 
 ### Estado real actual
 - Existe base contractual favorable en el modelo actual analizado.
-- No está cerrada todavía la prueba inquilino a inquilino.
-- Debe construirse una tabla final que clasifique qué habitaciones llevan reducción y cuáles no.
+- Ya existe una primera tabla por inquilino para trabajar la reducción.
+- No está cerrada todavía la prueba inquilino a inquilino, porque siguen faltando empadronamientos y prueba laboral / equivalente.
 
 ---
 

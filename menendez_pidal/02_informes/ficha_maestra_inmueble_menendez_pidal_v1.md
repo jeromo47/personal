@@ -52,10 +52,14 @@
 ## Datos económicos durables ya fijados
 - Comunidad 2025: **20 € / mes**
 - Subida de comunidad a **30 € / mes** efectiva desde **enero 2026**
+- Tasa de basura 2025: **64,77 €**
 - Ingreso puntual identificado: **1.412,00 €**
   - fianza: **1.200,00 €**
   - prorrata agosto: **212,00 €**
 - Ingreso operativo agrupado del piso en etapa actual: **1.200 € / mes**
+- Intereses hipotecarios buenos a usar:
+  - **2024: 1.460,88 €**
+  - **2025: 1.423,76 €**
 
 ---
 
@@ -124,9 +128,6 @@
 - `02_informes/reforma_menendez_pidal_cruce_extractos_y_pagos_obra_v1.md`
 - `02_informes/reforma_menendez_pidal_tabla_maestra_v1.md`
 - `02_informes/reforma_menendez_pidal_tabla_maestra_v2_criterio_hacienda.md`
-- `02_informes/reforma/analisis_final_vigente/2026-06-14_matriz_clasificacion_fiscal_reforma_menendez_pidal_v3_linea_a_linea.docx`
-- `02_informes/reforma/analisis_final_vigente/2026-06-14_anexo_obramat_clasificacion_linea_a_linea.xlsx`
-- `02_informes/reforma/NOTA_ARQUITECTURA_Y_VIGENCIA_2026-06-15.md`
 
 ---
 
@@ -134,7 +135,7 @@
 1. revisar si la póliza de seguro está correctamente declarada para el uso actual (alquiler por habitaciones) y por qué refleja `98 m²`
 2. anotar que la renovación / revisión natural del seguro llegará al finalizar el tramo de 3 años, en torno al **27/07/2026**
 3. conseguir una nota simple actualizada postcompra si se quiere expediente registral redondo
-4. revisar solo si interesa afinar todavía más los satélites o mejorar metadatos/fechas de las fotos; la clasificación principal de reforma ya quedó cerrada de forma prudente con la v3
-5. mantener como cifra final usable de reforma el cierre prudente ya adoptado, salvo nueva documentación mejor
+4. seguir afinando la reforma: clasificar materiales, remates, limpieza y movimientos satélite fuera del bloque principal del contratista
+5. mantener como criterio ya fijado de reforma: reparación solo por `4.450 €` (alisado + pintura), mejora para todo lo demás y mobiliario amortizable separado por `1.736,12 €`
 6. decidir si reordenar también los nuevos extractos/justificantes en carpetas finales por reforma
 7. mantener como pendiente menor cualquier documento bancario más formal que mejore soporte, aunque ya no es crítico para 2025
