@@ -153,7 +153,7 @@ Resumen operativo bueno a usar:
 ### Criterio rector
 - si un cobro no está confirmado en Unicaja, **no se trata como ingreso bancario confirmado**
 - la cronología contractual sirve como apoyo interpretativo, pero no para forzar ingresos no bancariamente confirmados
-- por eso queda descartado, de momento, sumar a Imed abril-mayo-junio 2025 mientras no se aclare si hubo vacante, impago o cobro por otra vía
+- en el caso de Imed, Jero ya ha aclarado que hubo **vacante desde abril 2025**, por lo que abril-mayo-junio no se computan como ingreso
 
 ### Criterio para la revisión fiscal final
 La versión que revise el asesor debe trabajar con un **desglose mes a mes real**, idealmente con columnas de:
@@ -340,6 +340,7 @@ pero el asesor debería recalcularlo ya con la base imponible completa real de c
 ## Pendientes reales que siguen abiertos
 - prueba de residencia de los 4 inquilinos para poder aplicar reducción del 50 % con seguridad
 - validación final de la base amortizable patrimonial por parte del asesor
+- soporte documental más fino del gasto de inmobiliaria de `600,00 €`, si finalmente se quiere blindar con justificante o liquidación
 - decisión técnica final del asesor sobre si usa separación de reparación de `4.450 €` o criterio algo más amplio, aunque la línea recomendada aquí es la prudente
 
 ---
@@ -353,10 +354,10 @@ pero el asesor debería recalcularlo ya con la base imponible completa real de c
 4. revisar si el seguro 2024 declarado (`586,17 €`) debe mantenerse o revisarse
 
 ## Para IRPF 2025
-1. rehacer y validar el **desglose real mes a mes de ingresos**, sustituyendo el número aislado `10.825,00 €` por una tabla de cobro real fiscalmente computable
+1. validar como base operativa el desglose ya corregido con Unicaja, con **`12.237,00 €`** de ingresos de trabajo 2025
 2. validar gastos recurrentes 2025 incluyendo basura `64,77 €` y `600,00 €` de inmobiliaria
-3. decidir aplicación efectiva del 50 % habitación por habitación según documentación de residencia
-4. decidir cómo se integra mejora, amortización de inmueble y mobiliario
+3. validar la base de amortizaciones 2025 ya reconstruida (`2.033,47 €` en total)
+4. decidir aplicación efectiva del 50 % habitación por habitación según documentación de residencia
 
 ---
 
@@ -376,7 +377,16 @@ pero el asesor debería recalcularlo ya con la base imponible completa real de c
 # Conclusión ejecutiva
 La rectificación 2024 debe partir de la declaración real ya presentada y añadir, como mínimo, la revisión correcta de los **intereses hipotecarios 2024** y del bloque Menéndez Pidal.
 
-La declaración 2025 está ya bastante avanzada, y la foto operativa de ingresos debe apoyarse en Unicaja como fuente rectora, con una base provisional de **`12.237,00 €`**. Con la aclaración de Imed como salida/vacante consensuada y con las amortizaciones ya reconstruidas, el rendimiento neto base provisional 2025 baja a **`6.291,85 €`** antes de entrar en el análisis final de la reducción del 50 %. Además, el 50 % solo debe cerrarse donde la prueba de residencia de los inquilinos quede realmente acreditada.
+La declaración 2025 está ya bastante avanzada y, a día de hoy, la foto operativa buena de trabajo es esta:
+- ingresos 2025 corregidos con Unicaja: **`12.237,00 €`**
+- gastos recurrentes base 2025: **`3.911,68 €`**
+- amortizaciones 2025 reconstruidas: **`2.033,47 €`**
+- rendimiento neto base provisional 2025 tras amortizaciones: **`6.291,85 €`**
+
+Además:
+- Imed debe tratarse como **vacante desde abril 2025**
+- agosto 2025 debe separarse en **`212,00 €`** de renta, **`600,00 €`** de fianza y **`600,00 €`** de inmobiliaria
+- el 50 % solo debe cerrarse donde la prueba de residencia de los inquilinos quede realmente acreditada
 
 La clave de ambos ejercicios está en:
 - amortización del inmueble,
@@ -386,4 +396,4 @@ La clave de ambos ejercicios está en:
 - gasto de inmobiliaria,
 - y reducción del 50 % solo donde la residencia habitual de los inquilinos quede realmente probada.
 
-> Nota práctica: este documento se mantiene deliberadamente prudente y no cierra al céntimo el resultado de 2025 mientras no se termine el cuadre de ingresos reales por mes y habitación.
+> Nota práctica: este documento ya está razonablemente pulido para trabajo con asesor, pero mantiene una prudencia deliberada allí donde todavía sería deseable reforzar soporte, por ejemplo con justificante formal de la inmobiliaria o con la prueba de residencia de los inquilinos para la reducción del 50 %.
