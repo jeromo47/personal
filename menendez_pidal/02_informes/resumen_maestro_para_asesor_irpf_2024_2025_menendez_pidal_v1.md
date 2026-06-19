@@ -90,11 +90,10 @@ La rectificación 2024 **no parte de cero**. Lo que debe revisar el asesor es si
 Corresponde al tramo inicial de 2025 y **no** debe servir de base fuerte para defender reducción del 50 % por vivienda habitual.
 
 Situación por habitaciones (reconstrucción operativa de trabajo):
-- **Hab. 1**: Imed hasta **30/06/2025**
-  - antes estuvo Amine, pero para 2025 la ocupación relevante de la hab. 1 se toma como Imed hasta junio
-- **Hab. 2**: Juanjo hasta **30/06/2025**
-- **Hab. 3**: Erik hasta **31/07/2025**
-- **Hab. 4**: Andrea hasta **31/07/2025**
+- **Hab. 1**: Imed hasta **30/06/2025** con renta histórica usada de **295 €/mes**
+- **Hab. 2**: Juanjo hasta **30/06/2025** con renta histórica usada de **310 €/mes**
+- **Hab. 3**: Erik hasta **31/07/2025** con renta histórica usada de **310 €/mes**
+- **Hab. 4**: Andrea hasta **31/07/2025** con renta histórica usada de **330 €/mes**
 
 ### Etapa 2 - modelo nuevo con vivienda habitual
 Los **4 contratos nuevos** arrancan el **11/08/2025** y se quieren reforzar con:
@@ -103,7 +102,15 @@ Los **4 contratos nuevos** arrancan el **11/08/2025** y se quieren reforzar con:
 - empadronamiento o prueba de residencia,
 - y prueba laboral o análoga.
 
-## Ingresos de agosto-septiembre 2025
+## Lectura económica del tramo antiguo
+La reconstrucción contractual por habitación del tramo enero-julio 2025 da esta foto operativa:
+- enero-junio 2025: **7.470 €**
+- julio 2025: **640 €**
+- total tramo antiguo enero-julio: **8.110 €**
+
+> Esta cifra es una reconstrucción contractual de trabajo y debe contrastarse con la realidad bancaria y con posibles vacancias o desajustes efectivos.
+
+## Ingresos de agosto 2025
 Criterio ya fijado:
 - del arranque de agosto debe separarse:
   - **1.200,00 €** fianza
@@ -113,13 +120,20 @@ Criterio ya fijado:
 ## Ingresos de septiembre a diciembre 2025
 Se toma como foto base:
 - **4 habitaciones × 300 € = 1.200 €/mes**
+- total septiembre-diciembre: **4.800 €**
 
 ---
 
 # 5. IRPF 2025 - base operativa actual
 
 ## Ingresos 2025 ya fijados como base
-- **10.825,00 €**
+- **10.825,00 €** como cifra bancaria/operativa trabajada hasta ahora
+
+## Observación importante sobre ingresos
+Ya existe además una reconstrucción contractual por habitación en:
+- `extraccion_ingresos_por_habitacion_2025_menendez_pidal_v1.md`
+
+Esa reconstrucción no usa una renta plana de `300 €` en enero-julio 2025 y sirve para contrastar la coherencia entre contratos, ocupación y flujos bancarios.
 
 ## Gastos recurrentes 2025 recomendados
 - agua: **362,03 €**
