@@ -1,131 +1,170 @@
 # Extracción de ingresos por habitación 2025 - Menéndez Pidal v1
 
 ## Objetivo
-Reconstruir el esquema de ingresos de 2025 habitación por habitación con un criterio operativo de trabajo, separando:
-- tramo antiguo hasta verano 2025
-- transición de agosto 2025
-- tramo nuevo desde 11/08/2025
+Reconstruir los ingresos de 2025 habitación por habitación dando prioridad a la **extracción resumida de Unicaja** como fuente buena de cobro real, y usando la lógica contractual solo como apoyo interpretativo cuando no contradiga el banco.
 
-## Criterio de reconstrucción
-### Tramo antiguo
-Se usan las rentas históricas visibles en los contratos anteriores, sin forzar una media ficticia de `300 €` por habitación cuando en esa etapa no era así.
+## Criterio rector
+Para este documento, los **ingresos de Unicaja son los buenos**.
 
-### Tramo nuevo
-Desde la nueva etapa contractual iniciada el `11/08/2025`, se trabaja con renta de `300 €/mes` por habitación.
+Por tanto:
+- si una reconstrucción contractual no cuadra con la extracción ya hecha del Excel de Unicaja, prevalece **Unicaja**
+- la cronología contractual sirve para interpretar ocupación y rentas teóricas, pero no para forzar cobros no confirmados bancariamente
 
----
+## Fuente bancaria principal
+Archivo de trabajo:
+- `/home/jero/cloud/02_proyectos/patrimonio_personal_jero/00_input/gastos_piso/resumen_movimientos_recurrentes_cuenta_5436_1.xlsx`
 
-## 1. Renta histórica por habitación usada como base
-- Habitación 1:
-  - Amine: `290 €/mes`
-  - Imed: `295 €/mes`
-- Habitación 2:
-  - Juanjo: `310 €/mes`
-- Habitación 3:
-  - Erik: `310 €/mes`
-- Habitación 4:
-  - Andrea: `330 €/mes`
+Hoja usada:
+- `Ingresos alquiler`
 
-## 2. Ocupación útil 2025 - tramo antiguo
-### Habitación 1
-- ocupante relevante en 2025: **Imed**
-- renta usada: **295 €/mes**
-- vigencia útil en 2025: hasta **30/06/2025**
+## Resumen de la extracción bancaria ya hecha
+- Juan José Iglesias López: `3.375,11 €` en `11` movimientos, desde `05/08/2024` hasta `03/06/2025`
+- Andrea Centeno: `3.630,00 €` en `11` movimientos, desde `02/08/2024` hasta `03/07/2025`
+- Erick Escoto: `3.410,09 €` en `12` movimientos, desde `02/08/2024` hasta `04/07/2025`
+- Imadeddine Zerarka: `1.475,00 €` en `5` movimientos, desde `06/11/2024` hasta `04/03/2025`
+- Lucía Tersoglio: `6.000,00 €` en `5` movimientos, desde `05/10/2025` hasta `08/02/2026`
+- German Cordero: `3.600,00 €` en `3` movimientos, desde `10/03/2026` hasta `08/05/2026`
+- total recurrente incluido en la hoja: `21.490,20 €`
+- ingreso puntual separado: `1.412,00 €`
 
-### Habitación 2
-- ocupante relevante en 2025: **Juanjo**
-- renta usada: **310 €/mes**
-- vigencia útil en 2025: hasta **30/06/2025**
+## 1. Tramo antiguo 2025 según Unicaja
+### Habitación 1 - Imed
+La cronología contractual de trabajo lo llevaba hasta `30/06/2025`, pero la extracción resumida de Unicaja solo confirma cobros hasta `04/03/2025`.
 
-### Habitación 3
-- ocupante relevante en 2025: **Erik**
-- renta usada: **310 €/mes**
-- vigencia útil en 2025: hasta **31/07/2025**
+### Cobro bueno a usar en 2025
+- enero 2025: `295 €`
+- febrero 2025: `295 €`
+- marzo 2025: `295 €`
+- abril 2025: `0 €` no confirmado en Unicaja
+- mayo 2025: `0 €` no confirmado en Unicaja
+- junio 2025: `0 €` no confirmado en Unicaja
+- julio 2025: `0 €`
 
-### Habitación 4
-- ocupante relevante en 2025: **Andrea**
-- renta usada: **330 €/mes**
-- vigencia útil en 2025: hasta **31/07/2025**
+### Total 2025 habitación 1
+- **`885,00 €`**
 
 ---
 
-## 3. Reconstrucción operativa del tramo antiguo 2025
-### Enero-junio 2025
-- Hab. 1 Imed: `295 € x 6 = 1.770 €`
-- Hab. 2 Juanjo: `310 € x 6 = 1.860 €`
-- Hab. 3 Erik: `310 € x 6 = 1.860 €`
-- Hab. 4 Andrea: `330 € x 6 = 1.980 €`
+### Habitación 2 - Juanjo
+La extracción resumida de Unicaja es coherente con cobros hasta junio 2025.
 
-### Total enero-junio 2025
-- **`7.470 €`**
+### Cobro bueno a usar en 2025
+- enero 2025: `310 €`
+- febrero 2025: `310 €`
+- marzo 2025: `310 €`
+- abril 2025: `310 €`
+- mayo 2025: `310 €`
+- junio 2025: `310 €`
+- julio 2025: `0 €`
 
-### Julio 2025
-- Hab. 1: `0 €` (ya fuera)
-- Hab. 2: `0 €` (ya fuera)
-- Hab. 3 Erik: `310 €`
-- Hab. 4 Andrea: `330 €`
-
-### Total julio 2025
-- **`640 €`**
-
-### Total tramo antiguo enero-julio 2025
-- **`8.110 €`**
+### Total 2025 habitación 2
+- **`1.860,00 €`**
 
 ---
 
-## 4. Transición agosto 2025
-Criterio ya fijado para el arranque de la nueva etapa:
-- **1.200,00 €** fianza
-- **212,00 €** ingreso real para Jero
-- **600,00 €** inmobiliaria / gestión
+### Habitación 3 - Erick
+La extracción resumida de Unicaja es coherente con continuidad hasta julio 2025.
 
-## Tratamiento operativo
-- como ingreso inmobiliario real para Jero en ese ajuste inicial: **`212,00 €`**
+### Cobro bueno a usar en 2025
+- enero 2025: `310 €`
+- febrero 2025: `310 €`
+- marzo 2025: `310 €`
+- abril 2025: `310 €`
+- mayo 2025: `310 €`
+- junio 2025: `310 €`
+- julio 2025: `310 €`
+
+### Total 2025 habitación 3
+- **`2.170,00 €`**
+
+---
+
+### Habitación 4 - Andrea
+La extracción resumida de Unicaja es coherente con continuidad hasta julio 2025.
+
+### Cobro bueno a usar en 2025
+- enero 2025: `330 €`
+- febrero 2025: `330 €`
+- marzo 2025: `330 €`
+- abril 2025: `330 €`
+- mayo 2025: `330 €`
+- junio 2025: `330 €`
+- julio 2025: `330 €`
+
+### Total 2025 habitación 4
+- **`2.310,00 €`**
+
+---
+
+## 2. Total tramo antiguo enero-julio 2025 según Unicaja
+- Habitación 1 Imed: `885,00 €`
+- Habitación 2 Juanjo: `1.860,00 €`
+- Habitación 3 Erick: `2.170,00 €`
+- Habitación 4 Andrea: `2.310,00 €`
+
+### Total tramo antiguo validado por extracción bancaria resumida
+- **`7.225,00 €`**
+
+## 3. Transición agosto 2025
+Criterio ya fijado y compatible con el Excel y el expediente:
+- **`1.200,00 €`** = fianza
+- **`212,00 €`** = ingreso real para Jero
+- **`600,00 €`** = inmobiliaria / gestión
+
+## Tratamiento
+- **solo `212,00 €`** se toma aquí como ingreso de alquiler computable para Jero
 - la fianza no se trata como renta
-- la parte de inmobiliaria no se trata como ingreso de alquiler
+- la inmobiliaria no se trata como ingreso, sino como coste/gasto
 
----
-
-## 5. Nueva etapa desde 11/08/2025
-### Base contractual nueva
+## 4. Nueva etapa septiembre-diciembre 2025
+### Base operativa que seguimos usando
 - 4 habitaciones
 - `300 €/mes` cada una
+- cobro agrupado del piso: `1.200 €/mes`
 
-### Septiembre-diciembre 2025
-- `4 x 300 € = 1.200 €/mes`
-- `1.200 € x 4 meses = 4.800 €`
+### Cálculo
+- septiembre 2025: `1.200 €`
+- octubre 2025: `1.200 €`
+- noviembre 2025: `1.200 €`
+- diciembre 2025: `1.200 €`
 
----
+### Total septiembre-diciembre 2025
+- **`4.800,00 €`**
 
-## 6. Reconstrucción operativa total 2025
-- Tramo antiguo enero-julio: **`8.110 €`**
-- Ajuste ingreso real agosto: **`212 €`**
-- Septiembre-diciembre: **`4.800 €`**
+## 5. Total operativo 2025 que debe usarse de momento
+- tramo antiguo enero-julio validado por Unicaja: **`7.225,00 €`**
+- agosto 2025 ingreso real Jero: **`212,00 €`**
+- septiembre-diciembre 2025: **`4.800,00 €`**
 
-## Total reconstrucción operativa 2025
-- **`13.122 €`**
+### Total 2025 de trabajo
+- **`12.237,00 €`**
 
----
+## 6. Diferencia frente a la versión contractual anterior
+La versión anterior de este informe daba:
+- **`13.122,00 €`**
 
-## 7. Advertencia importante
-Esta reconstrucción habitación por habitación sirve como **base lógica contractual y económica**, pero debe contrastarse con:
-- extractos reales de la cuenta `5436`
-- posibles vacancias reales
-- impagos
-- desajustes de calendario
-- y la trazabilidad bancaria efectiva
+La corrección al ceñirse a Unicaja deja:
+- **`12.237,00 €`**
 
-Por eso no debe sustituir sin más la cifra de ingresos bancarios ya trabajada en otros documentos, sino servir como:
-- **mapa de coherencia contractual**
-- y herramienta para revisar si el total bancario `10.825 €` está infradeclarando, ajustando fianzas, vacancias o cobros no equivalentes a renta pura.
+### Diferencia
+- **`885,00 €`**
 
----
+## Explicación de la diferencia
+La diferencia sale de no dar por confirmados en habitación 1 los meses:
+- abril 2025
+- mayo 2025
+- junio 2025
 
-## 8. Lectura práctica para asesor
-- En el tramo antiguo de 2025 **no** debe asumirse una renta plana de `300 €/habitación`.
-- La reconstrucción contractual razonable da:
-  - `295 €` hab. 1
-  - `310 €` hab. 2
-  - `310 €` hab. 3
-  - `330 €` hab. 4
-- Solo desde la nueva etapa (consolidada claramente desde septiembre 2025) puede trabajarse con `300 €/habitación` para las cuatro habitaciones.
+Es decir:
+- `295 € x 3 = 885 €`
+
+## 7. Conclusión práctica
+A efectos de trabajo con asesor y cuadre interno, este documento debe leerse así:
+- la fuente buena para ingresos es **Unicaja**
+- la cronología contractual ayuda, pero no puede imponerse sobre el banco
+- la cifra operativa de ingresos 2025 que mejor cuadra ahora mismo es:
+  - **`12.237,00 €`**
+
+## 8. Pendiente fino todavía abierto
+Para cerrar al céntimo la foto final seguiría siendo útil revisar el detalle movimiento a movimiento de la cuenta `5436`, pero la corrección principal ya queda hecha:
+- **el informe de ingresos por habitación ya no asume cobros de Imed en abril-junio 2025 que no están confirmados en Unicaja**.

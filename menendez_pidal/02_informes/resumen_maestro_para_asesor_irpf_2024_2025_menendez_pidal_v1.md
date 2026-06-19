@@ -103,12 +103,14 @@ Los **4 contratos nuevos** arrancan el **11/08/2025** y se quieren reforzar con:
 - y prueba laboral o análoga.
 
 ## Lectura económica del tramo antiguo
-La reconstrucción contractual por habitación del tramo enero-julio 2025 da esta foto operativa:
-- enero-junio 2025: **7.470 €**
-- julio 2025: **640 €**
-- total tramo antiguo enero-julio: **8.110 €**
+Tomando como fuente buena la extracción resumida de **Unicaja**, el tramo antiguo enero-julio 2025 debe trabajarse así:
+- Habitación 1 Imed: **885,00 €**
+- Habitación 2 Juanjo: **1.860,00 €**
+- Habitación 3 Erick: **2.170,00 €**
+- Habitación 4 Andrea: **2.310,00 €**
+- total tramo antiguo enero-julio: **7.225,00 €**
 
-> Esta cifra es una reconstrucción contractual de trabajo y debe contrastarse con la realidad bancaria y con posibles vacancias o desajustes efectivos.
+> Criterio rector: si un cobro no está confirmado en Unicaja, no se da por ingreso real. Por eso no se computan como ingreso confirmado los `885,00 €` de Imed de abril-mayo-junio 2025 que sí aparecían en una reconstrucción contractual anterior.
 
 ## Ingresos de agosto 2025
 Criterio ya fijado:
@@ -129,31 +131,26 @@ Se toma como foto base:
 ## Ingresos 2025 - criterio correcto de trabajo
 No debe tomarse como cifra central definitiva un simple redondeo anual de `10.825,00 €` sin desplegar su construcción.
 
-Para revisar bien 2025 deben trabajarse conjuntamente dos capas:
-1. **reconstrucción contractual por habitación y mes**
-2. **cobro bancario real / operativo**
+Para revisar bien 2025, y siguiendo el criterio ya fijado por Jero, debe prevalecer la **extracción de Unicaja** sobre cualquier reconstrucción contractual cuando no cuadren.
 
-### Reconstrucción contractual ya extraída
-Existe ya una reconstrucción específica en:
+### Cuadre operativo que debe usarse ahora
+Existe ya una extracción específica alineada con Unicaja en:
 - `extraccion_ingresos_por_habitacion_2025_menendez_pidal_v1.md`
+- `cuadre_maestro_ingresos_2025_menendez_pidal_v1.md`
 
-Resumen de esa reconstrucción:
-- tramo antiguo enero-julio 2025: **8.110,00 €**
+Resumen operativo bueno a usar:
+- tramo antiguo enero-julio 2025 validado por Unicaja: **7.225,00 €**
 - ajuste ingreso real agosto 2025: **212,00 €**
 - septiembre-diciembre 2025: **4.800,00 €**
-- total reconstrucción contractual/operativa: **13.122,00 €**
+- total operativo 2025 más coherente con Unicaja: **12.237,00 €**
 
-### Advertencia metodológica
-Esta cifra **no debe trasladarse sin más** a la declaración si no casa exactamente con:
-- extractos reales de la cuenta `5436`
-- vacancias
-- impagos
-- fianzas
-- importes cobrados por terceros
-- y ajustes de gestión/inmobiliaria
+### Criterio rector
+- si un cobro no está confirmado en Unicaja, **no se trata como ingreso real**
+- la cronología contractual sirve como apoyo interpretativo, pero no para forzar ingresos no bancariamente confirmados
+- por eso queda descartado, de momento, sumar a Imed abril-mayo-junio 2025
 
-### Criterio para la siguiente revisión fiscal
-La versión que revise el asesor debe sustituir el número anual aislado por un **desglose mes a mes real**, idealmente con columnas de:
+### Criterio para la revisión fiscal final
+La versión que revise el asesor debe trabajar con un **desglose mes a mes real**, idealmente con columnas de:
 - renta contractual por habitación
 - cobro real bancario
 - fianza / no renta
@@ -175,9 +172,12 @@ Sin incluir todavía internet ni mantenimiento de cuenta y añadiendo basura + i
 - **3.911,68 €**
 
 ## Resultado base orientativo 2025
-El resultado final de 2025 no debe cerrarse todavía con una sola cifra mientras no se rehaga el **desglose real mes a mes de ingresos**.
+Si se usa como base provisional el cuadre de ingresos más coherente con Unicaja:
+- ingresos: **`12.237,00 €`**
+- gastos recurrentes base: **`3.911,68 €`**
+- rendimiento neto base provisional: **`8.325,32 €`**
 
-> Nota: la base práctica anterior queda superada como foto central si no incorpora la basura `64,77 €`, los `600,00 €` de inmobiliaria y el ajuste fino de ingresos por habitación/mes.
+> Nota: esta cifra sigue siendo una base de trabajo prudente, pero ya está alineada con el criterio rector fijado por Jero, esto es, que si un ingreso no está confirmado en Unicaja no se da por bueno.
 
 ---
 
@@ -345,7 +345,7 @@ pero el asesor debería recalcularlo ya con la base imponible completa real de c
 # Conclusión ejecutiva
 La rectificación 2024 debe partir de la declaración real ya presentada y añadir, como mínimo, la revisión correcta de los **intereses hipotecarios 2024** y del bloque Menéndez Pidal.
 
-La declaración 2025 está ya bastante avanzada, pero para cerrarla bien antes del asesor todavía debe sustituirse la cifra anual aislada de ingresos por un **desglose real mes a mes**, y cerrar el 50 % solo donde la prueba de residencia de los inquilinos quede realmente acreditada.
+La declaración 2025 está ya bastante avanzada, y la foto operativa de ingresos debe apoyarse en Unicaja como fuente rectora, con una base provisional de **`12.237,00 €`** mientras no aparezca un mayor detalle bancario. Aun así, para cerrarla bien antes del asesor conviene mantener el desglose mes a mes real y cerrar el 50 % solo donde la prueba de residencia de los inquilinos quede realmente acreditada.
 
 La clave de ambos ejercicios está en:
 - amortización del inmueble,
