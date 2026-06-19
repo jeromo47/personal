@@ -76,8 +76,8 @@ La rectificación 2024 **no parte de cero**. Lo que debe revisar el asesor es si
 - **Ejercicio 2025:** `1.423,76 €`
 
 ## Criterio recomendado
-- En 2024 conviene revisar si esos **1.460,88 €** se metieron o no correctamente en la declaración ya presentada.
-- En 2025 el importe bueno a usar es **1.423,76 €**.
+- En 2024 debe trabajarse con el criterio de que esos **1.460,88 € no se incluyeron** correctamente en la declaración ya presentada y, por tanto, deben analizarse para su incorporación en la rectificativa.
+- En 2025 el importe bueno a usar es **1.423,76 €**, procedente del documento bancario/resumen anual ya trabajado del préstamo.
 - Nunca debe deducirse la cuota hipotecaria total, solo intereses y gastos financieros deducibles que procedan.
 
 ---
@@ -126,14 +126,39 @@ Se toma como foto base:
 
 # 5. IRPF 2025 - base operativa actual
 
-## Ingresos 2025 ya fijados como base
-- **10.825,00 €** como cifra bancaria/operativa trabajada hasta ahora
+## Ingresos 2025 - criterio correcto de trabajo
+No debe tomarse como cifra central definitiva un simple redondeo anual de `10.825,00 €` sin desplegar su construcción.
 
-## Observación importante sobre ingresos
-Ya existe además una reconstrucción contractual por habitación en:
+Para revisar bien 2025 deben trabajarse conjuntamente dos capas:
+1. **reconstrucción contractual por habitación y mes**
+2. **cobro bancario real / operativo**
+
+### Reconstrucción contractual ya extraída
+Existe ya una reconstrucción específica en:
 - `extraccion_ingresos_por_habitacion_2025_menendez_pidal_v1.md`
 
-Esa reconstrucción no usa una renta plana de `300 €` en enero-julio 2025 y sirve para contrastar la coherencia entre contratos, ocupación y flujos bancarios.
+Resumen de esa reconstrucción:
+- tramo antiguo enero-julio 2025: **8.110,00 €**
+- ajuste ingreso real agosto 2025: **212,00 €**
+- septiembre-diciembre 2025: **4.800,00 €**
+- total reconstrucción contractual/operativa: **13.122,00 €**
+
+### Advertencia metodológica
+Esta cifra **no debe trasladarse sin más** a la declaración si no casa exactamente con:
+- extractos reales de la cuenta `5436`
+- vacancias
+- impagos
+- fianzas
+- importes cobrados por terceros
+- y ajustes de gestión/inmobiliaria
+
+### Criterio para la siguiente revisión fiscal
+La versión que revise el asesor debe sustituir el número anual aislado por un **desglose mes a mes real**, idealmente con columnas de:
+- renta contractual por habitación
+- cobro real bancario
+- fianza / no renta
+- ajustes / inmobiliaria
+- ingreso fiscal computable final
 
 ## Gastos recurrentes 2025 recomendados
 - agua: **362,03 €**
@@ -143,16 +168,16 @@ Esa reconstrucción no usa una renta plana de `300 €` en enero-julio 2025 y si
 - seguro hogar prorrateado: **331,36 €**
 - intereses hipotecarios 2025: **1.423,76 €**
 - tasa de basura 2025: **64,77 €**
+- inmobiliaria / gestión captación agosto 2025: **600,00 €**
 
 ## Total gastos recurrentes base recomendados 2025
-Sin incluir todavía internet ni mantenimiento de cuenta y añadiendo basura:
-- **3.311,68 €**
+Sin incluir todavía internet ni mantenimiento de cuenta y añadiendo basura + inmobiliaria:
+- **3.911,68 €**
 
-## Resultado base recomendado 2025
-Con ingresos `10.825,00 €` y gastos `3.311,68 €`:
-- **rendimiento neto base orientativo 2025: 7.513,32 €**
+## Resultado base orientativo 2025
+El resultado final de 2025 no debe cerrarse todavía con una sola cifra mientras no se rehaga el **desglose real mes a mes de ingresos**.
 
-> Nota: este cálculo actualiza la v5 práctica anterior añadiendo la tasa de basura `64,77 €`, que no estaba metida en el total base anterior.
+> Nota: la base práctica anterior queda superada como foto central si no incorpora la basura `64,77 €`, los `600,00 €` de inmobiliaria y el ajuste fino de ingresos por habitación/mes.
 
 ---
 
@@ -176,6 +201,7 @@ pero **todavía faltan** para los 4 inquilinos:
 ## Recomendación para asesor
 - aplicar reducción del 50 % **solo en las habitaciones y periodos que queden realmente defendibles**
 - si no entra prueba suficiente, dejar la reducción fuera de esa habitación concreta
+- no cerrar el 50 % de 2025 mientras no consten, habitación por habitación, empadronamiento con fecha de alta y prueba laboral o equivalente
 
 ---
 
@@ -290,14 +316,14 @@ pero el asesor debería recalcularlo ya con la base imponible completa real de c
 # 12. Qué debería revisar el asesor
 
 ## Para rectificación 2024
-1. si los **intereses 2024** están bien o faltaron en la declaración presentada
-2. si conviene rehacer el rendimiento de Menéndez Pidal con el nuevo criterio de reforma
-3. si la amortización del inmueble `432,38 €` está bien calculada o debe corregirse
-4. si el seguro 2024 declarado (`586,17 €`) debe mantenerse o revisarse
+1. incorporar los **intereses 2024 (`1.460,88 €`)** que no se metieron correctamente en la declaración presentada
+2. revisar si conviene rehacer el rendimiento de Menéndez Pidal con el nuevo criterio de reforma
+3. revisar si la amortización del inmueble `432,38 €` está bien calculada o debe corregirse
+4. revisar si el seguro 2024 declarado (`586,17 €`) debe mantenerse o revisarse
 
 ## Para IRPF 2025
-1. validar la base de ingresos `10.825,00 €`
-2. validar gastos recurrentes 2025 incluyendo basura `64,77 €`
+1. rehacer y validar el **desglose real mes a mes de ingresos**, sustituyendo el número aislado `10.825,00 €` por una tabla de cobro real fiscalmente computable
+2. validar gastos recurrentes 2025 incluyendo basura `64,77 €` y `600,00 €` de inmobiliaria
 3. decidir aplicación efectiva del 50 % habitación por habitación según documentación de residencia
 4. decidir cómo se integra mejora, amortización de inmueble y mobiliario
 
@@ -317,13 +343,16 @@ pero el asesor debería recalcularlo ya con la base imponible completa real de c
 ---
 
 # Conclusión ejecutiva
-La declaración 2025 puede prepararse ya con una base bastante sólida y prudente.
+La rectificación 2024 debe partir de la declaración real ya presentada y añadir, como mínimo, la revisión correcta de los **intereses hipotecarios 2024** y del bloque Menéndez Pidal.
 
-La rectificación 2024 también puede plantearse, pero debe hacerse partiendo de la declaración real ya presentada y rehaciendo con cuidado el bloque Menéndez Pidal.
+La declaración 2025 está ya bastante avanzada, pero para cerrarla bien antes del asesor todavía debe sustituirse la cifra anual aislada de ingresos por un **desglose real mes a mes**, y cerrar el 50 % solo donde la prueba de residencia de los inquilinos quede realmente acreditada.
 
 La clave de ambos ejercicios está en:
 - amortización del inmueble,
 - intereses 2024/2025,
 - separación reparación vs mejora,
 - mobiliario amortizable,
+- gasto de inmobiliaria,
 - y reducción del 50 % solo donde la residencia habitual de los inquilinos quede realmente probada.
+
+> Nota práctica: este documento se mantiene deliberadamente prudente y no cierra al céntimo el resultado de 2025 mientras no se termine el cuadre de ingresos reales por mes y habitación.
