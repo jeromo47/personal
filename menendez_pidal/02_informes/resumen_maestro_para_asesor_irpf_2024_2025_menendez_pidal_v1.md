@@ -325,7 +325,9 @@ pero sí se toma por bueno que:
 ## Rendimiento neto base provisional 2025 tras amortizaciones
 - rendimiento neto provisional antes de amortizaciones: **`8.925,32 €`**
 - menos amortizaciones 2025: **`2.033,47 €`**
-- **rendimiento neto base provisional tras amortizaciones: `6.891,85 €`**
+- rendimiento neto base provisional tras amortizaciones: **`6.891,85 €`**
+- menos arrastre / exceso pendiente de 2024 a integrar en 2025: **`1.328,50 €`**
+- **rendimiento neto base provisional 2025 antes de reducción del 50 %: `5.563,35 €`**
 
 ---
 
@@ -373,6 +375,7 @@ pero el asesor debería recalcularlo ya con la base imponible completa real de c
 2. revisar si conviene rehacer el rendimiento de Menéndez Pidal con el nuevo criterio de reforma
 3. incorporar la **amortización parcial 2024 de la mejora (`177,41 €`)** y del **mobiliario (`56,92 €`)**, además de revisar la amortización del inmueble `432,38 €`
 4. revisar si el seguro 2024 declarado (`586,17 €`) debe mantenerse o revisarse
+5. dejar previsto el **arrastre a 2025 de `1.328,50 €`** dentro de los gastos fiscalmente aprovechables del ejercicio siguiente
 
 ## Para IRPF 2025
 1. validar como base operativa el desglose ya corregido con Unicaja, con **`12.837,00 €`** de ingresos de trabajo 2025
@@ -396,13 +399,15 @@ pero el asesor debería recalcularlo ya con la base imponible completa real de c
 ---
 
 # Conclusión ejecutiva
-La rectificación 2024 debe partir de la declaración real ya presentada y añadir, como mínimo, la revisión correcta de los **intereses hipotecarios 2024**, del bloque Menéndez Pidal y del arranque coherente de las amortizaciones parciales de mejora y mobiliario en ese ejercicio.
+La rectificación 2024 debe partir de la declaración real ya presentada y añadir, como mínimo, la revisión correcta de los **intereses hipotecarios 2024**, del bloque Menéndez Pidal y del arranque coherente de las amortizaciones parciales de mejora y mobiliario en ese ejercicio. La foto de trabajo resultante apunta a un **rendimiento negativo en 2024 y devolución en la rectificativa**, lo cual es legítimo, pero conviene presentar con la matriz de reforma y las facturas clave a mano por si llega requerimiento.
 
 La declaración 2025 está ya bastante avanzada y, a día de hoy, la foto operativa buena de trabajo es esta:
 - ingresos 2025 corregidos con Unicaja: **`12.837,00 €`**
 - gastos recurrentes base 2025: **`3.911,68 €`**
 - amortizaciones 2025 reconstruidas: **`2.033,47 €`**
 - rendimiento neto base provisional 2025 tras amortizaciones: **`6.891,85 €`**
+- menos arrastre 2024 pendiente a integrar en 2025: **`1.328,50 €`**
+- rendimiento neto base provisional 2025 antes de reducción del 50 %: **`5.563,35 €`**
 
 Además:
 - Imed debe tratarse como **vacante desde abril 2025**
