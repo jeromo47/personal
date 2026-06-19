@@ -67,6 +67,28 @@ La rectificación 2024 **no parte de cero**. Lo que debe revisar el asesor es si
 - tratamiento de la reforma,
 - y separación entre reparación, mejora y mobiliario.
 
+## Error fiscal relevante detectado para 2024
+El gran hueco técnico que ahora sí conviene dejar señalado expresamente es este:
+- si en 2024 se incorpora el criterio prudente actual de reforma, no basta con llevar a gasto directo la reparación de **`4.450,00 €`**
+- también debe arrancar en 2024 la **amortización de la mejora** y la del **mobiliario**, porque ambas inversiones ya estaban realizadas y el piso tuvo **`120 días arrendado`** ese ejercicio
+
+### Mejora 2024
+- base de mejora de trabajo: **`18.037,09 €`**
+- amortización anual al 3 %: **`541,11 €`**
+- prorrateo por `120/366` días arrendados en 2024: **`177,41 €`**
+
+### Mobiliario 2024
+- base amortizable: **`1.736,12 €`**
+- amortización anual al 10 %: **`173,61 €`**
+- prorrateo por `120/366` días arrendados en 2024: **`56,92 €`**
+
+### Efecto técnico a revisar en la rectificativa 2024
+- amortización parcial mejora 2024: **`177,41 €`**
+- amortización parcial mobiliario 2024: **`56,92 €`**
+- total amortizaciones adicionales 2024 a revisar: **`234,33 €`**
+
+Este punto es importante porque el arranque de la amortización debe ser coherente entre 2024 y 2025.
+
 ---
 
 # 3. Intereses hipotecarios
@@ -310,7 +332,7 @@ pero sí se toma por bueno que:
 # 11. Tipo marginal / efecto económico
 
 ## Dato orientativo aportado por Jero
-- nómina aproximada: **2.200 €/mes en 14 pagas**
+- rendimiento neto del trabajo / base neta de referencia: **`30.800 €`** aproximadamente
 - tipo marginal orientativo: **35,9 %**
 
 ## Utilidad
@@ -349,7 +371,7 @@ pero el asesor debería recalcularlo ya con la base imponible completa real de c
 ## Para rectificación 2024
 1. incorporar los **intereses 2024 (`1.460,88 €`)** que no se metieron correctamente en la declaración presentada
 2. revisar si conviene rehacer el rendimiento de Menéndez Pidal con el nuevo criterio de reforma
-3. revisar si la amortización del inmueble `432,38 €` está bien calculada o debe corregirse
+3. incorporar la **amortización parcial 2024 de la mejora (`177,41 €`)** y del **mobiliario (`56,92 €`)**, además de revisar la amortización del inmueble `432,38 €`
 4. revisar si el seguro 2024 declarado (`586,17 €`) debe mantenerse o revisarse
 
 ## Para IRPF 2025
@@ -374,7 +396,7 @@ pero el asesor debería recalcularlo ya con la base imponible completa real de c
 ---
 
 # Conclusión ejecutiva
-La rectificación 2024 debe partir de la declaración real ya presentada y añadir, como mínimo, la revisión correcta de los **intereses hipotecarios 2024** y del bloque Menéndez Pidal.
+La rectificación 2024 debe partir de la declaración real ya presentada y añadir, como mínimo, la revisión correcta de los **intereses hipotecarios 2024**, del bloque Menéndez Pidal y del arranque coherente de las amortizaciones parciales de mejora y mobiliario en ese ejercicio.
 
 La declaración 2025 está ya bastante avanzada y, a día de hoy, la foto operativa buena de trabajo es esta:
 - ingresos 2025 corregidos con Unicaja: **`12.837,00 €`**
