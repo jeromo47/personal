@@ -114,16 +114,15 @@ Tomando como fuente buena la extracción resumida de **Unicaja**, el tramo antig
 
 ## Ingresos de agosto 2025
 Aclaración ya fijada por Jero:
-- los inquilinos hicieron una transferencia de **`1.412,00 €`**
-- esa entrada se descompone en:
-  - **`600,00 €`** fianza
-  - **`600,00 €`** honorarios de inmobiliaria
-  - **`212,00 €`** prorrateo de renta de agosto desde la entrada el `11/08/2025`
+- los inquilinos hicieron una transferencia a Unicaja de **`1.412,00 €`**
+- la renta prorrateada correcta de agosto desde la entrada el `11/08/2025` es **`812,00 €`**
+- dentro de ese ingreso bancario hay **`600,00 €`** de fianza
+- los **`600,00 €`** restantes hasta el total económico del arranque (`1.200,00 €` de fianzas + `812,00 €` de renta) quedaron absorbidos por la inmobiliaria como honorarios
 
 ## Tratamiento correcto
-- la **renta de agosto** a computar como ingreso en este punto es **`212,00 €`**
+- la **renta de agosto** a computar como ingreso en este punto es **`812,00 €`**
 - la **fianza** no es renta
-- la **inmobiliaria** no reduce el ingreso, sino que se deduce como gasto separado
+- la **inmobiliaria** no reduce el ingreso de renta, sino que se deduce como gasto separado
 
 ## Ingresos de septiembre a diciembre 2025
 Se toma como foto base:
@@ -146,9 +145,9 @@ Existe ya una extracción específica alineada con Unicaja en:
 
 Resumen operativo bueno a usar:
 - tramo antiguo enero-julio 2025 validado por Unicaja: **7.225,00 €**
-- ajuste ingreso real agosto 2025: **212,00 €**
+- renta agosto 2025: **812,00 €**
 - septiembre-diciembre 2025: **4.800,00 €**
-- total operativo 2025 más coherente con Unicaja: **12.237,00 €**
+- total operativo 2025 más coherente con Unicaja: **12.837,00 €**
 
 ### Criterio rector
 - si un cobro no está confirmado en Unicaja, **no se trata como ingreso bancario confirmado**
@@ -179,9 +178,9 @@ Sin incluir todavía internet ni mantenimiento de cuenta y añadiendo basura + i
 
 ## Resultado base orientativo 2025
 Si se usa como base provisional el cuadre de ingresos más coherente con Unicaja:
-- ingresos: **`12.237,00 €`**
+- ingresos: **`12.837,00 €`**
 - gastos recurrentes base: **`3.911,68 €`**
-- rendimiento neto base provisional **antes de amortizaciones**: **`8.325,32 €`**
+- rendimiento neto base provisional **antes de amortizaciones**: **`8.925,32 €`**
 
 > Nota: esta cifra sigue siendo una base de trabajo prudente, pero ya está alineada con el criterio rector fijado por Jero, esto es, que si un ingreso no está confirmado en Unicaja no se da por bueno.
 
@@ -302,9 +301,9 @@ pero sí se toma por bueno que:
 - **`2.033,47 €`**
 
 ## Rendimiento neto base provisional 2025 tras amortizaciones
-- rendimiento neto provisional antes de amortizaciones: **`8.325,32 €`**
+- rendimiento neto provisional antes de amortizaciones: **`8.925,32 €`**
 - menos amortizaciones 2025: **`2.033,47 €`**
-- **rendimiento neto base provisional tras amortizaciones: `6.291,85 €`**
+- **rendimiento neto base provisional tras amortizaciones: `6.891,85 €`**
 
 ---
 
@@ -354,7 +353,7 @@ pero el asesor debería recalcularlo ya con la base imponible completa real de c
 4. revisar si el seguro 2024 declarado (`586,17 €`) debe mantenerse o revisarse
 
 ## Para IRPF 2025
-1. validar como base operativa el desglose ya corregido con Unicaja, con **`12.237,00 €`** de ingresos de trabajo 2025
+1. validar como base operativa el desglose ya corregido con Unicaja, con **`12.837,00 €`** de ingresos de trabajo 2025
 2. validar gastos recurrentes 2025 incluyendo basura `64,77 €` y `600,00 €` de inmobiliaria
 3. validar la base de amortizaciones 2025 ya reconstruida (`2.033,47 €` en total)
 4. decidir aplicación efectiva del 50 % habitación por habitación según documentación de residencia
@@ -378,14 +377,14 @@ pero el asesor debería recalcularlo ya con la base imponible completa real de c
 La rectificación 2024 debe partir de la declaración real ya presentada y añadir, como mínimo, la revisión correcta de los **intereses hipotecarios 2024** y del bloque Menéndez Pidal.
 
 La declaración 2025 está ya bastante avanzada y, a día de hoy, la foto operativa buena de trabajo es esta:
-- ingresos 2025 corregidos con Unicaja: **`12.237,00 €`**
+- ingresos 2025 corregidos con Unicaja: **`12.837,00 €`**
 - gastos recurrentes base 2025: **`3.911,68 €`**
 - amortizaciones 2025 reconstruidas: **`2.033,47 €`**
-- rendimiento neto base provisional 2025 tras amortizaciones: **`6.291,85 €`**
+- rendimiento neto base provisional 2025 tras amortizaciones: **`6.891,85 €`**
 
 Además:
 - Imed debe tratarse como **vacante desde abril 2025**
-- agosto 2025 debe separarse en **`212,00 €`** de renta, **`600,00 €`** de fianza y **`600,00 €`** de inmobiliaria
+- agosto 2025 debe separarse en **`812,00 €`** de renta, **`600,00 €`** de fianza que entra en cuenta y **`600,00 €`** de inmobiliaria absorbidos fuera de esa entrada
 - el 50 % solo debe cerrarse donde la prueba de residencia de los inquilinos quede realmente acreditada
 
 La clave de ambos ejercicios está en:

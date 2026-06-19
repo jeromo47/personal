@@ -61,17 +61,17 @@ Se toma como base de trabajo:
 ## 5. Impacto en el rendimiento neto 2025
 ### Base previa sin amortizaciones
 Tomando la foto operativa ya corregida:
-- ingresos 2025: **`12.237,00 €`**
+- ingresos 2025: **`12.837,00 €`**
 - gastos recurrentes base: **`3.911,68 €`**
 
 ### Resultado previo sin amortizaciones
-- **`8.325,32 €`**
+- **`8.925,32 €`**
 
 ### Resultado tras amortizaciones
-- `8.325,32 € - 2.033,47 € = 6.291,85 €`
+- `8.925,32 € - 2.033,47 € = 6.891,85 €`
 
 ## Rendimiento neto base provisional 2025 tras amortizaciones
-- **`6.291,85 €`**
+- **`6.891,85 €`**
 
 ## 6. Notas de prudencia
 - Esta cifra mejora mucho la foto 2025 frente a las versiones sin amortización.

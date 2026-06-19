@@ -58,10 +58,11 @@ Mientras no se reconstruya el detalle movimiento a movimiento de esos meses, el 
 - **no dar por bueno abril-junio 2025 de Imed como cobro real confirmado**
 
 ## Tramo agosto 2025
-Ya fijado y compatible con el expediente:
-- fianza: `1.200,00 €` -> no renta
-- ingreso real para Jero: `212,00 €`
-- inmobiliaria: `600,00 €` -> gasto, no ingreso
+Ya fijado y compatible con el expediente tras la última aclaración de Jero:
+- ingreso visto en Unicaja: `1.412,00 €`
+- renta prorrateada correcta de agosto: `812,00 €`
+- fianza que sí entra en cuenta: `600,00 €` -> no renta
+- honorarios de inmobiliaria: `600,00 €` -> gasto, no ingreso
 
 ## Tramo septiembre-diciembre 2025
 Base operativa ya fijada:
@@ -72,22 +73,22 @@ Base operativa ya fijada:
 - **`7.225,00 €`**
 
 ### Ajuste agosto 2025
-- **`212,00 €`**
+- **`812,00 €`**
 
 ### Nueva etapa septiembre-diciembre 2025
 - **`4.800,00 €`**
 
 ## Total operativo 2025 que mejor cuadra por ahora
-- **`12.237,00 €`**
+- **`12.837,00 €`**
 
 ## Comparativa de totales
 - reconstrucción contractual v1: `13.122,00 €`
-- cuadre más coherente con extracción Unicaja resumida: `12.237,00 €`
-- diferencia: **`885,00 €`**
+- cuadre más coherente con extracción Unicaja resumida y agosto corregido: `12.837,00 €`
+- diferencia: **`285,00 €`**
 
 ## Conclusión práctica
 A día de hoy, si el objetivo es que el expediente cuadre mejor con la extracción ya hecha del Excel de Unicaja, la cifra de trabajo más sólida no es `13.122,00 €` sino:
-- **`12.237,00 €`**
+- **`12.837,00 €`**
 
 Y la principal corrección a introducir es esta:
 - **no tratar como confirmado el cobro de Imed de abril, mayo y junio de 2025 hasta verificarlo en el detalle bancario**.

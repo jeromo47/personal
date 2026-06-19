@@ -106,15 +106,23 @@ La extracción resumida de Unicaja es coherente con continuidad hasta julio 2025
 - **`7.225,00 €`**
 
 ## 3. Transición agosto 2025
-Criterio ya fijado y compatible con el Excel y el expediente:
-- **`1.200,00 €`** = fianza
-- **`212,00 €`** = ingreso real para Jero
-- **`600,00 €`** = inmobiliaria / gestión
+Aclaración fijada por Jero:
+- los inquilinos hicieron una transferencia a Unicaja de **`1.412,00 €`**
+- la renta prorrateada correcta de agosto desde el `11/08/2025` es **`812,00 €`**
+- la diferencia hasta el total ingresado en cuenta es **`600,00 €`**, que corresponde a la parte que sí llegó a Jero de las fianzas
+- los **`600,00 €`** restantes hasta el total económico del arranque (`1.200,00 €` de fianzas + `812,00 €` de renta) quedaron absorbidos por la inmobiliaria en concepto de honorarios
 
 ## Tratamiento
-- **solo `212,00 €`** se toma aquí como ingreso de alquiler computable para Jero
-- la fianza no se trata como renta
-- la inmobiliaria no se trata como ingreso, sino como coste/gasto
+- **`812,00 €`** se toma como renta devengada/cobrada de agosto 2025
+- **`600,00 €`** de la entrada en cuenta se tratan como fianza, no como renta
+- **`600,00 €`** de honorarios de inmobiliaria se tratan como gasto separado
+
+## Lectura práctica
+A la vista de esta aclaración, en este expediente agosto 2025 debe leerse así:
+- renta de agosto: **`812,00 €`**
+- fianza que entra en cuenta: **`600,00 €`**
+- honorarios de inmobiliaria: **`600,00 €`**
+- ingreso visto en Unicaja: **`1.412,00 €`**
 
 ## 4. Nueva etapa septiembre-diciembre 2025
 ### Base operativa que seguimos usando
@@ -133,21 +141,21 @@ Criterio ya fijado y compatible con el Excel y el expediente:
 
 ## 5. Total operativo 2025 que debe usarse de momento
 - tramo antiguo enero-julio validado por Unicaja: **`7.225,00 €`**
-- agosto 2025 ingreso real Jero: **`212,00 €`**
+- agosto 2025 renta devengada/cobrada: **`812,00 €`**
 - septiembre-diciembre 2025: **`4.800,00 €`**
 
 ### Total 2025 de trabajo
-- **`12.237,00 €`**
+- **`12.837,00 €`**
 
 ## 6. Diferencia frente a la versión contractual anterior
 La versión anterior de este informe daba:
 - **`13.122,00 €`**
 
-La corrección al ceñirse a Unicaja deja:
-- **`12.237,00 €`**
+La corrección al ceñirse a Unicaja y rehacer bien agosto deja:
+- **`12.837,00 €`**
 
 ### Diferencia
-- **`885,00 €`**
+- **`285,00 €`**
 
 ## Explicación de la diferencia
 La diferencia sale de no dar por confirmados en habitación 1 los meses:
@@ -162,8 +170,9 @@ Es decir:
 A efectos de trabajo con asesor y cuadre interno, este documento debe leerse así:
 - la fuente buena para ingresos es **Unicaja**
 - la cronología contractual ayuda, pero no puede imponerse sobre el banco
+- agosto 2025 no debe tomarse por el neto `212,00 €`, sino por su renta prorrateada correcta de **`812,00 €`**
 - la cifra operativa de ingresos 2025 que mejor cuadra ahora mismo es:
-  - **`12.237,00 €`**
+  - **`12.837,00 €`**
 
 ## 8. Pendiente fino todavía abierto
 Para cerrar al céntimo la foto final seguiría siendo útil revisar el detalle movimiento a movimiento de la cuenta `5436`, pero la corrección principal ya queda hecha:
