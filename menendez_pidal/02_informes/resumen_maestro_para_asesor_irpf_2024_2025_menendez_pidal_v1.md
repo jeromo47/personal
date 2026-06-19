@@ -90,7 +90,7 @@ La rectificación 2024 **no parte de cero**. Lo que debe revisar el asesor es si
 Corresponde al tramo inicial de 2025 y **no** debe servir de base fuerte para defender reducción del 50 % por vivienda habitual.
 
 Situación por habitaciones (reconstrucción operativa de trabajo):
-- **Hab. 1**: Imed hasta **30/06/2025** con renta histórica usada de **295 €/mes**
+- **Hab. 1**: Imed con salida previa a abril 2025, consensuada con Jero; la renta histórica de referencia era **295 €/mes**, pero solo constan cobros confirmados por Unicaja hasta marzo 2025
 - **Hab. 2**: Juanjo hasta **30/06/2025** con renta histórica usada de **310 €/mes**
 - **Hab. 3**: Erik hasta **31/07/2025** con renta histórica usada de **310 €/mes**
 - **Hab. 4**: Andrea hasta **31/07/2025** con renta histórica usada de **330 €/mes**
@@ -113,11 +113,17 @@ Tomando como fuente buena la extracción resumida de **Unicaja**, el tramo antig
 > Criterio rector: si un cobro no está confirmado en Unicaja, no se da por ingreso real. Por eso no se computan como ingreso confirmado los `885,00 €` de Imed de abril-mayo-junio 2025 que sí aparecían en una reconstrucción contractual anterior.
 
 ## Ingresos de agosto 2025
-Criterio ya fijado:
-- del arranque de agosto debe separarse:
-  - **1.200,00 €** fianza
-  - **212,00 €** ingreso real para Jero
-  - **600,00 €** gestión / inmobiliaria
+Aclaración ya fijada por Jero:
+- los inquilinos hicieron una transferencia de **`1.412,00 €`**
+- esa entrada se descompone en:
+  - **`600,00 €`** fianza
+  - **`600,00 €`** honorarios de inmobiliaria
+  - **`212,00 €`** prorrateo de renta de agosto desde la entrada el `11/08/2025`
+
+## Tratamiento correcto
+- la **renta de agosto** a computar como ingreso en este punto es **`212,00 €`**
+- la **fianza** no es renta
+- la **inmobiliaria** no reduce el ingreso, sino que se deduce como gasto separado
 
 ## Ingresos de septiembre a diciembre 2025
 Se toma como foto base:
@@ -145,9 +151,9 @@ Resumen operativo bueno a usar:
 - total operativo 2025 más coherente con Unicaja: **12.237,00 €**
 
 ### Criterio rector
-- si un cobro no está confirmado en Unicaja, **no se trata como ingreso real**
+- si un cobro no está confirmado en Unicaja, **no se trata como ingreso bancario confirmado**
 - la cronología contractual sirve como apoyo interpretativo, pero no para forzar ingresos no bancariamente confirmados
-- por eso queda descartado, de momento, sumar a Imed abril-mayo-junio 2025
+- por eso queda descartado, de momento, sumar a Imed abril-mayo-junio 2025 mientras no se aclare si hubo vacante, impago o cobro por otra vía
 
 ### Criterio para la revisión fiscal final
 La versión que revise el asesor debe trabajar con un **desglose mes a mes real**, idealmente con columnas de:
@@ -175,7 +181,7 @@ Sin incluir todavía internet ni mantenimiento de cuenta y añadiendo basura + i
 Si se usa como base provisional el cuadre de ingresos más coherente con Unicaja:
 - ingresos: **`12.237,00 €`**
 - gastos recurrentes base: **`3.911,68 €`**
-- rendimiento neto base provisional: **`8.325,32 €`**
+- rendimiento neto base provisional **antes de amortizaciones**: **`8.325,32 €`**
 
 > Nota: esta cifra sigue siendo una base de trabajo prudente, pero ya está alineada con el criterio rector fijado por Jero, esto es, que si un ingreso no está confirmado en Unicaja no se da por bueno.
 
@@ -277,7 +283,32 @@ pero sí se toma por bueno que:
 
 ---
 
-# 10. Tipo marginal / efecto económico
+# 10. Amortizaciones 2025
+
+## Amortizaciones 2025 incorporables ya
+### Inmueble
+- base amortizable operativa coherente con IRPF 2024: **`43.958,19 €`**
+- amortización anual al 3 %: **`1.318,75 €`**
+
+### Mobiliario
+- base amortizable: **`1.736,12 €`**
+- amortización anual al 10 %: **`173,61 €`**
+
+### Mejora / reforma amortizable
+- base de mejora usada: **`18.037,09 €`**
+- amortización anual al 3 %: **`541,11 €`**
+
+### Total amortizaciones 2025
+- **`2.033,47 €`**
+
+## Rendimiento neto base provisional 2025 tras amortizaciones
+- rendimiento neto provisional antes de amortizaciones: **`8.325,32 €`**
+- menos amortizaciones 2025: **`2.033,47 €`**
+- **rendimiento neto base provisional tras amortizaciones: `6.291,85 €`**
+
+---
+
+# 11. Tipo marginal / efecto económico
 
 ## Dato orientativo aportado por Jero
 - nómina aproximada: **2.200 €/mes en 14 pagas**
@@ -292,7 +323,7 @@ pero el asesor debería recalcularlo ya con la base imponible completa real de c
 
 ---
 
-# 11. Decisiones ya tomadas
+# 12. Decisiones ya tomadas
 
 ## Decisiones cerradas
 - el ITP se da por **pagado al 100 %**
@@ -313,7 +344,7 @@ pero el asesor debería recalcularlo ya con la base imponible completa real de c
 
 ---
 
-# 12. Qué debería revisar el asesor
+# 13. Qué debería revisar el asesor
 
 ## Para rectificación 2024
 1. incorporar los **intereses 2024 (`1.460,88 €`)** que no se metieron correctamente en la declaración presentada
@@ -329,7 +360,7 @@ pero el asesor debería recalcularlo ya con la base imponible completa real de c
 
 ---
 
-# 13. Documentos principales que acompañan este resumen
+# 14. Documentos principales que acompañan este resumen
 
 1. `dossier_fiscal_menendez_pidal_v1.md`
 2. `checklist_maestro_definitivo_menendez_pidal_v1.md`
@@ -345,7 +376,7 @@ pero el asesor debería recalcularlo ya con la base imponible completa real de c
 # Conclusión ejecutiva
 La rectificación 2024 debe partir de la declaración real ya presentada y añadir, como mínimo, la revisión correcta de los **intereses hipotecarios 2024** y del bloque Menéndez Pidal.
 
-La declaración 2025 está ya bastante avanzada, y la foto operativa de ingresos debe apoyarse en Unicaja como fuente rectora, con una base provisional de **`12.237,00 €`** mientras no aparezca un mayor detalle bancario. Aun así, para cerrarla bien antes del asesor conviene mantener el desglose mes a mes real y cerrar el 50 % solo donde la prueba de residencia de los inquilinos quede realmente acreditada.
+La declaración 2025 está ya bastante avanzada, y la foto operativa de ingresos debe apoyarse en Unicaja como fuente rectora, con una base provisional de **`12.237,00 €`**. Con la aclaración de Imed como salida/vacante consensuada y con las amortizaciones ya reconstruidas, el rendimiento neto base provisional 2025 baja a **`6.291,85 €`** antes de entrar en el análisis final de la reducción del 50 %. Además, el 50 % solo debe cerrarse donde la prueba de residencia de los inquilinos quede realmente acreditada.
 
 La clave de ambos ejercicios está en:
 - amortización del inmueble,
