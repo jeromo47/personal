@@ -348,8 +348,8 @@ pero sí se toma por bueno que:
 - rendimiento neto provisional antes de amortizaciones: **`9.525,32 €`**
 - menos amortizaciones 2025: **`2.033,47 €`**
 - rendimiento neto base provisional tras amortizaciones: **`7.491,85 €`**
-- menos arrastre / exceso pendiente de 2024 a integrar en 2025: **`1.328,50 €`**
-- **rendimiento neto base provisional 2025 antes de reducción del 50 %: `6.163,35 €`**
+- menos arrastre / exceso pendiente de 2024 a integrar en 2025: **`346,60 €`**
+- **rendimiento neto base provisional 2025 antes de reducción del 50 %: `7.145,25 €`**
 
 ---
 
@@ -397,7 +397,7 @@ pero el asesor debería recalcularlo ya con la base imponible completa real de c
 2. revisar si conviene rehacer el rendimiento de Menéndez Pidal con el nuevo criterio de reforma
 3. incorporar la **amortización parcial 2024 de la mejora (`177,41 €`)** y del **mobiliario (`56,92 €`)**, además de revisar la amortización del inmueble `432,38 €`
 4. revisar si el seguro 2024 declarado (`586,17 €`) debe mantenerse o revisarse
-5. dejar previsto el **arrastre a 2025 de `1.328,50 €`** dentro de los gastos fiscalmente aprovechables del ejercicio siguiente
+5. dejar previsto el **arrastre a 2025 de `346,60 €`** dentro de los gastos fiscalmente aprovechables del ejercicio siguiente si se confirma el prorrateo de intereses 2024 por días arrendados
 
 ## Para IRPF 2025
 1. validar como base operativa el desglose ya corregido con Unicaja, con **`12.837,00 €`** de ingresos de trabajo 2025
@@ -428,8 +428,8 @@ La declaración 2025 está ya bastante avanzada y, a día de hoy, la foto operat
 - gastos recurrentes base 2025: **`3.311,68 €`**
 - amortizaciones 2025 reconstruidas: **`2.033,47 €`**
 - rendimiento neto base provisional 2025 tras amortizaciones: **`7.491,85 €`**
-- menos arrastre 2024 pendiente a integrar en 2025: **`1.328,50 €`**
-- rendimiento neto base provisional 2025 antes de reducción del 50 %: **`6.163,35 €`**
+- menos arrastre 2024 pendiente a integrar en 2025: **`346,60 €`**
+- rendimiento neto base provisional 2025 antes de reducción del 50 %: **`7.145,25 €`**
 
 Además:
 - Imed debe tratarse como **vacante desde abril 2025**

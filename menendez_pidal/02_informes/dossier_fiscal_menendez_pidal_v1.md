@@ -214,8 +214,8 @@
 - Gastos recurrentes base deducibles 2025: **3.311,68 €**
 - Amortizaciones 2025 reconstruidas: **2.033,47 €**
 - Rendimiento neto provisional 2025 tras amortizaciones: **7.491,85 €**
-- Arrastre 2024 pendiente a integrar en 2025: **1.328,50 €**
-- Rendimiento neto provisional 2025 antes de reducción del 50 %: **6.163,35 €**
+- Arrastre 2024 pendiente a integrar en 2025: **346,60 €**
+- Rendimiento neto provisional 2025 antes de reducción del 50 %: **7.145,25 €**
 
 ### Aclaración crítica sobre el 50 %
 - Ese rendimiento neto provisional de **`6.163,35 €`** es la foto anual completa antes de reducción.

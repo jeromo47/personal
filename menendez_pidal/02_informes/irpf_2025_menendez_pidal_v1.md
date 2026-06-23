@@ -42,8 +42,8 @@ Desglose de trabajo:
 - resultado antes de amortizaciones: **9.525,32 €**
 - menos amortizaciones: **2.033,47 €**
 - rendimiento neto tras amortizaciones: **7.491,85 €**
-- menos arrastre 2024 pendiente: **1.328,50 €**
-- **rendimiento neto provisional 2025 antes del 50 %: 6.163,35 €**
+- menos arrastre 2024 pendiente: **346,60 €**
+- **rendimiento neto provisional 2025 antes del 50 %: 7.145,25 €**
 
 ## Reducción del 50 %
 Aquí no quiero cerrar nada en falso.
