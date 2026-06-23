@@ -1,41 +1,41 @@
 habitacion,dias_ocupados_2025,coeficiente_temporal,superficie_privada_m2,coeficiente_habitacion,concepto,importe_total_2025,formula,importe_imputado_habitacion,notas
 H1,233,0.6384,5.88,0.2363,Agua,362.03,362.03 x 0.6384 x 0.2363,54.61,Criterio superficie privada + comunes
 H1,233,0.6384,5.88,0.2363,Luz,633.50,633.50 x 0.6384 x 0.2363,95.57,Criterio superficie privada + comunes
-H1,233,0.6384,5.88,0.2363,Comunidad,240.00,240.00 x 0.6384 x 0.2363,36.21,Criterio superficie privada + comunes
-H1,233,0.6384,5.88,0.2363,IBI,256.26,256.26 x 0.6384 x 0.2363,38.67,Criterio superficie privada + comunes
-H1,233,0.6384,5.88,0.2363,Seguro,331.36,331.36 x 0.6384 x 0.2363,50.00,Criterio superficie privada + comunes
-H1,233,0.6384,5.88,0.2363,Intereses hipoteca,1423.76,1423.76 x 0.6384 x 0.2363,214.79,Criterio superficie privada + comunes
+H1,233,0.6384,5.88,0.2363,Comunidad,240.00,240.00 x 0.6384 x 0.2363,36.20,Criterio superficie privada + comunes
+H1,233,0.6384,5.88,0.2363,IBI,256.26,256.26 x 0.6384 x 0.2363,38.66,Criterio superficie privada + comunes
+H1,233,0.6384,5.88,0.2363,Seguro,331.36,331.36 x 0.6384 x 0.2363,49.99,Criterio superficie privada + comunes
+H1,233,0.6384,5.88,0.2363,Intereses hipoteca,1423.76,1423.76 x 0.6384 x 0.2363,214.78,Criterio superficie privada + comunes
 H1,233,0.6384,5.88,0.2363,Basura,64.77,64.77 x 0.6384 x 0.2363,9.77,Criterio superficie privada + comunes
-H1,233,0.6384,5.88,0.2363,Amortizacion inmueble,1318.75,1318.75 x 0.6384 x 0.2363,198.95,Criterio superficie privada + comunes
+H1,233,0.6384,5.88,0.2363,Amortizacion inmueble,1318.75,1318.75 x 0.6384 x 0.2363,198.94,Criterio superficie privada + comunes
 H1,233,0.6384,5.88,0.2363,Amortizacion mobiliario,173.61,173.61 x 0.6384 x 0.2363,26.19,Criterio superficie privada + comunes
-H1,233,0.6384,5.88,0.2363,Amortizacion mejora,541.11,541.11 x 0.6384 x 0.2363,81.52,Criterio superficie privada + comunes
-H2,324,0.8877,6.16,0.2398,Agua,362.03,362.03 x 0.8877 x 0.2398,77.08,Criterio superficie privada + comunes
-H2,324,0.8877,6.16,0.2398,Luz,633.50,633.50 x 0.8877 x 0.2398,134.89,Criterio superficie privada + comunes
-H2,324,0.8877,6.16,0.2398,Comunidad,240.00,240.00 x 0.8877 x 0.2398,51.10,Criterio superficie privada + comunes
-H2,324,0.8877,6.16,0.2398,IBI,256.26,256.26 x 0.8877 x 0.2398,54.56,Criterio superficie privada + comunes
-H2,324,0.8877,6.16,0.2398,Seguro,331.36,331.36 x 0.8877 x 0.2398,70.55,Criterio superficie privada + comunes
-H2,324,0.8877,6.16,0.2398,Intereses hipoteca,1423.76,1423.76 x 0.8877 x 0.2398,303.15,Criterio superficie privada + comunes
+H1,233,0.6384,5.88,0.2363,Amortizacion mejora,541.11,541.11 x 0.6384 x 0.2363,81.63,Criterio superficie privada + comunes
+H2,324,0.8877,6.16,0.2398,Agua,362.03,362.03 x 0.8877 x 0.2398,77.07,Criterio superficie privada + comunes
+H2,324,0.8877,6.16,0.2398,Luz,633.50,633.50 x 0.8877 x 0.2398,134.85,Criterio superficie privada + comunes
+H2,324,0.8877,6.16,0.2398,Comunidad,240.00,240.00 x 0.8877 x 0.2398,51.09,Criterio superficie privada + comunes
+H2,324,0.8877,6.16,0.2398,IBI,256.26,256.26 x 0.8877 x 0.2398,54.55,Criterio superficie privada + comunes
+H2,324,0.8877,6.16,0.2398,Seguro,331.36,331.36 x 0.8877 x 0.2398,70.54,Criterio superficie privada + comunes
+H2,324,0.8877,6.16,0.2398,Intereses hipoteca,1423.76,1423.76 x 0.8877 x 0.2398,303.08,Criterio superficie privada + comunes
 H2,324,0.8877,6.16,0.2398,Basura,64.77,64.77 x 0.8877 x 0.2398,13.79,Criterio superficie privada + comunes
-H2,324,0.8877,6.16,0.2398,Amortizacion inmueble,1318.75,1318.75 x 0.8877 x 0.2398,280.81,Criterio superficie privada + comunes
-H2,324,0.8877,6.16,0.2398,Amortizacion mobiliario,173.61,173.61 x 0.8877 x 0.2398,36.97,Criterio superficie privada + comunes
-H2,324,0.8877,6.16,0.2398,Amortizacion mejora,541.11,541.11 x 0.8877 x 0.2398,115.89,Criterio superficie privada + comunes
-H3,355,0.9726,6.16,0.2398,Agua,362.03,362.03 x 0.9726 x 0.2398,84.45,Criterio superficie privada + comunes
-H3,355,0.9726,6.16,0.2398,Luz,633.50,633.50 x 0.9726 x 0.2398,147.80,Criterio superficie privada + comunes
-H3,355,0.9726,6.16,0.2398,Comunidad,240.00,240.00 x 0.9726 x 0.2398,55.99,Criterio superficie privada + comunes
-H3,355,0.9726,6.16,0.2398,IBI,256.26,256.26 x 0.9726 x 0.2398,59.79,Criterio superficie privada + comunes
-H3,355,0.9726,6.16,0.2398,Seguro,331.36,331.36 x 0.9726 x 0.2398,77.30,Criterio superficie privada + comunes
-H3,355,0.9726,6.16,0.2398,Intereses hipoteca,1423.76,1423.76 x 0.9726 x 0.2398,332.98,Criterio superficie privada + comunes
-H3,355,0.9726,6.16,0.2398,Basura,64.77,64.77 x 0.9726 x 0.2398,15.14,Criterio superficie privada + comunes
-H3,355,0.9726,6.16,0.2398,Amortizacion inmueble,1318.75,1318.75 x 0.9726 x 0.2398,308.43,Criterio superficie privada + comunes
-H3,355,0.9726,6.16,0.2398,Amortizacion mobiliario,173.61,173.61 x 0.9726 x 0.2398,40.61,Criterio superficie privada + comunes
-H3,355,0.9726,6.16,0.2398,Amortizacion mejora,541.11,541.11 x 0.9726 x 0.2398,127.16,Criterio superficie privada + comunes
-H4,355,0.9726,9.80,0.2841,Agua,362.03,362.03 x 0.9726 x 0.2841,100.07,Criterio superficie privada + comunes
-H4,355,0.9726,9.80,0.2841,Luz,633.50,633.50 x 0.9726 x 0.2841,175.14,Criterio superficie privada + comunes
-H4,355,0.9726,9.80,0.2841,Comunidad,240.00,240.00 x 0.9726 x 0.2841,66.35,Criterio superficie privada + comunes
-H4,355,0.9726,9.80,0.2841,IBI,256.26,256.26 x 0.9726 x 0.2841,70.85,Criterio superficie privada + comunes
-H4,355,0.9726,9.80,0.2841,Seguro,331.36,331.36 x 0.9726 x 0.2841,91.62,Criterio superficie privada + comunes
-H4,355,0.9726,9.80,0.2841,Intereses hipoteca,1423.76,1423.76 x 0.9726 x 0.2841,394.45,Criterio superficie privada + comunes
-H4,355,0.9726,9.80,0.2841,Basura,64.77,64.77 x 0.9726 x 0.2841,17.93,Criterio superficie privada + comunes
-H4,355,0.9726,9.80,0.2841,Amortizacion inmueble,1318.75,1318.75 x 0.9726 x 0.2841,365.71,Criterio superficie privada + comunes
-H4,355,0.9726,9.80,0.2841,Amortizacion mobiliario,173.61,173.61 x 0.9726 x 0.2841,48.10,Criterio superficie privada + comunes
-H4,355,0.9726,9.80,0.2841,Amortizacion mejora,541.11,541.11 x 0.9726 x 0.2841,146.74,Criterio superficie privada + comunes
+H2,324,0.8877,6.16,0.2398,Amortizacion inmueble,1318.75,1318.75 x 0.8877 x 0.2398,280.72,Criterio superficie privada + comunes
+H2,324,0.8877,6.16,0.2398,Amortizacion mobiliario,173.61,173.61 x 0.8877 x 0.2398,36.96,Criterio superficie privada + comunes
+H2,324,0.8877,6.16,0.2398,Amortizacion mejora,541.11,541.11 x 0.8877 x 0.2398,115.19,Criterio superficie privada + comunes
+H3,355,0.9726,6.16,0.2398,Agua,362.03,362.03 x 0.9726 x 0.2398,84.44,Criterio superficie privada + comunes
+H3,355,0.9726,6.16,0.2398,Luz,633.50,633.50 x 0.9726 x 0.2398,147.75,Criterio superficie privada + comunes
+H3,355,0.9726,6.16,0.2398,Comunidad,240.00,240.00 x 0.9726 x 0.2398,55.98,Criterio superficie privada + comunes
+H3,355,0.9726,6.16,0.2398,IBI,256.26,256.26 x 0.9726 x 0.2398,59.77,Criterio superficie privada + comunes
+H3,355,0.9726,6.16,0.2398,Seguro,331.36,331.36 x 0.9726 x 0.2398,77.28,Criterio superficie privada + comunes
+H3,355,0.9726,6.16,0.2398,Intereses hipoteca,1423.76,1423.76 x 0.9726 x 0.2398,332.06,Criterio superficie privada + comunes
+H3,355,0.9726,6.16,0.2398,Basura,64.77,64.77 x 0.9726 x 0.2398,15.11,Criterio superficie privada + comunes
+H3,355,0.9726,6.16,0.2398,Amortizacion inmueble,1318.75,1318.75 x 0.9726 x 0.2398,307.57,Criterio superficie privada + comunes
+H3,355,0.9726,6.16,0.2398,Amortizacion mobiliario,173.61,173.61 x 0.9726 x 0.2398,40.49,Criterio superficie privada + comunes
+H3,355,0.9726,6.16,0.2398,Amortizacion mejora,541.11,541.11 x 0.9726 x 0.2398,126.20,Criterio superficie privada + comunes
+H4,355,0.9726,9.80,0.2841,Agua,362.03,362.03 x 0.9726 x 0.2841,100.03,Criterio superficie privada + comunes
+H4,355,0.9726,9.80,0.2841,Luz,633.50,633.50 x 0.9726 x 0.2841,175.05,Criterio superficie privada + comunes
+H4,355,0.9726,9.80,0.2841,Comunidad,240.00,240.00 x 0.9726 x 0.2841,66.32,Criterio superficie privada + comunes
+H4,355,0.9726,9.80,0.2841,IBI,256.26,256.26 x 0.9726 x 0.2841,70.81,Criterio superficie privada + comunes
+H4,355,0.9726,9.80,0.2841,Seguro,331.36,331.36 x 0.9726 x 0.2841,91.56,Criterio superficie privada + comunes
+H4,355,0.9726,9.80,0.2841,Intereses hipoteca,1423.76,1423.76 x 0.9726 x 0.2841,393.41,Criterio superficie privada + comunes
+H4,355,0.9726,9.80,0.2841,Basura,64.77,64.77 x 0.9726 x 0.2841,17.90,Criterio superficie privada + comunes
+H4,355,0.9726,9.80,0.2841,Amortizacion inmueble,1318.75,1318.75 x 0.9726 x 0.2841,364.39,Criterio superficie privada + comunes
+H4,355,0.9726,9.80,0.2841,Amortizacion mobiliario,173.61,173.61 x 0.9726 x 0.2841,47.97,Criterio superficie privada + comunes
+H4,355,0.9726,9.80,0.2841,Amortizacion mejora,541.11,541.11 x 0.9726 x 0.2841,149.52,Criterio superficie privada + comunes
