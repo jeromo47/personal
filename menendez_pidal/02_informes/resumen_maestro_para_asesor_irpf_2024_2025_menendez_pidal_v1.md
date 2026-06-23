@@ -181,6 +181,7 @@ Resumen operativo bueno a usar:
 - si un cobro no está confirmado en Unicaja, **no se trata como ingreso bancario confirmado**
 - la cronología contractual sirve como apoyo interpretativo, pero no para forzar ingresos no bancariamente confirmados
 - en el caso de Imed, Jero ya ha aclarado que hubo **vacante desde abril 2025**, por lo que abril-mayo-junio no se computan como ingreso
+- esos días vacíos de la habitación 1 deben mantenerse como vacante real y usarse así en la lectura fiscal del periodo
 
 ### Criterio para la revisión fiscal final
 La versión que revise el asesor debe trabajar con un **desglose mes a mes real**, idealmente con columnas de:
@@ -189,6 +190,8 @@ La versión que revise el asesor debe trabajar con un **desglose mes a mes real*
 - fianza / no renta
 - ajustes / importes no renta / importes no deducibles
 - ingreso fiscal computable final
+
+Además, el asesor deberá revisar si los días vacíos de la habitación 1 desde abril 2025 generan algún ajuste de imputación o si quedan absorbidos dentro de la lectura global del inmueble, pero no deben tratarse como ingreso omitido.
 
 ## Gastos recurrentes 2025 recomendados
 - agua: **362,03 €**
@@ -220,6 +223,17 @@ No conviene defender la reducción del 50 % sobre la etapa contractual antigua/t
 
 La estrategia buena es intentar sostenerla solo en la **etapa nueva desde 11/08/2025**, habitación por habitación, si se completa la prueba.
 
+## Regla de cálculo importante
+La reducción del 50 % **no** debe aplicarse sobre el rendimiento neto anual completo antes de reducción (**`6.163,35 €`**).
+
+Debe aplicarse solo sobre el **rendimiento neto positivo defendible del tramo nuevo**, prorrateando entre tramos:
+- ingresos
+- gastos
+- amortizaciones
+- y, en su caso, el efecto del arrastre
+
+El tramo antiguo enero-julio 2025 queda fuera del 50 %.
+
 ## Situación actual
 Existen ya:
 - contratos nuevos base,
@@ -234,6 +248,7 @@ pero **todavía faltan** para los 4 inquilinos:
 - aplicar reducción del 50 % **solo en las habitaciones y periodos que queden realmente defendibles**
 - si no entra prueba suficiente, dejar la reducción fuera de esa habitación concreta
 - no cerrar el 50 % de 2025 mientras no consten, habitación por habitación, empadronamiento con fecha de alta y prueba laboral o equivalente
+- no calcular el 50 % sobre toda la cifra anual de `6.163,35 €`, sino solo sobre el neto positivo defendible del tramo nuevo
 
 ---
 

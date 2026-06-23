@@ -170,6 +170,7 @@
 #### Estado ya fijado
 - Los 4 contratos nuevos arrancan el **11/08/2025**.
 - De septiembre a diciembre 2025 se toma como base económica **4 habitaciones × 300 €/mes**.
+- La habitación 1 quedó vacante tras la salida de Imed en la fecha estipulada; esos días vacíos no se tratan como ingreso y el asesor deberá revisar su encaje final dentro de la lectura global del inmueble 2025.
 
 ### Justificantes de ingresos
 #### Documentación disponible
@@ -183,6 +184,7 @@
 #### Documentación pendiente
 - Justificantes de cobro de las 4 fianzas: **300 € × 4 = 1.200 €**.
 - Tabla final cerrada de ingresos por habitación / periodo.
+- Prorrateo visible del rendimiento neto del tramo nuevo para calcular correctamente la reducción del 50 %.
 
 ---
 
@@ -213,6 +215,10 @@
 - Rendimiento neto provisional 2025 tras amortizaciones: **7.491,85 €**
 - Arrastre 2024 pendiente a integrar en 2025: **1.328,50 €**
 - Rendimiento neto provisional 2025 antes de reducción del 50 %: **6.163,35 €**
+
+### Aclaración crítica sobre el 50 %
+- Ese rendimiento neto provisional de **`6.163,35 €`** es la foto anual completa antes de reducción.
+- La reducción del 50 % no debe aplicarse sobre toda esa cifra, sino solo sobre el **neto positivo defendible del tramo nuevo**, habitación por habitación y con prueba suficiente de residencia habitual en `2025`.
 
 ---
 
@@ -266,6 +272,7 @@ Aplicar la reducción del 50% del artículo 23.2 LIRPF únicamente en las habita
 - Nota explicativa sobre doble acceso Antonio Cano 51 / Menéndez Pidal 52.
 - Nota breve sobre el tratamiento del seguro 2024 frente al prorrateo prudente del seguro CASER en 2025.
 - Nota breve revisando si los tributos 2024 se construyeron por arrastre/no prorrateo al coincidir con IBI + basura de 2025.
+- Nota técnica de reparto del rendimiento 2025 entre tramo antiguo y tramo nuevo para calcular correctamente la reducción del 50 %.
 - Narrativa de un folio explicando:
   - origen del inmueble
   - estado inicial deteriorado

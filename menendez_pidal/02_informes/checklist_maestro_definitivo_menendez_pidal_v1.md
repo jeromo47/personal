@@ -202,6 +202,7 @@ Aplicar la reducción únicamente a las habitaciones / inquilinos respecto de lo
 |---|---|---|---|
 | Tabla inquilino a inquilino de reducción defendible | Primera versión creada en `02_informes/tabla_reduccion_50_inquilino_a_inquilino_menendez_pidal_v1.md` | Muy alta | Actualizar a medida que entren anexos, declaraciones y pruebas |
 | Modelo de adenda / subsanación | Modelo y 4 versiones personalizadas ya preparados; falta firma por habitación | Muy alta | Firmar |
+| Prorrateo del neto del tramo nuevo | La reducción no puede aplicarse sobre el neto anual completo `6.163,35 €`; falta separar neto defendible de la etapa nueva | Muy alta | Construir cálculo visible por tramo |
 
 ---
 
