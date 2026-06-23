@@ -193,6 +193,8 @@ La versión que revise el asesor debe trabajar con un **desglose mes a mes real*
 
 Además, el asesor deberá revisar si los días vacíos de la habitación 1 desde abril 2025 generan algún ajuste de imputación o si quedan absorbidos dentro de la lectura global del inmueble, pero no deben tratarse como ingreso omitido.
 
+Como criterio de trabajo ya incorporado en el expediente, esos días vacíos de la habitación 1 (`01/04/2025` a `10/08/2025`) se acompañan de una **imputación orientativa de renta de `41,67 €`**, calculada como 1/4 de la imputación anual estimada de la vivienda.
+
 ## Gastos recurrentes 2025 recomendados
 - agua: **362,03 €**
 - luz: **633,50 €**

@@ -6,6 +6,7 @@ habitacion,mes,inquilino,contrato,fecha_entrada,fecha_salida,renta_mensual,dias_
 1,2025-05,Vacante,,2025-04-01,2025-08-10,295.00,31,0,0.00,0.00,0.00,0.00,0.00,0.00,Habitación vacante
 1,2025-06,Vacante,,2025-04-01,2025-08-10,295.00,30,0,0.00,0.00,0.00,0.00,0.00,0.00,Habitación vacante
 1,2025-07,Vacante,,2025-04-01,2025-08-10,295.00,31,0,0.00,0.00,0.00,0.00,0.00,0.00,Habitación vacante
+1,2025-04_a_2025-08-10,Vacante,,2025-04-01,2025-08-10,0.00,132,0,0.00,0.00,0.00,0.00,0.00,41.67,Imputacion de renta por dias vacios de la habitacion 1 calculada como 1/4 de la imputacion anual de la vivienda
 1,2025-08,Lucia,nuevo,2025-08-11,2026-08-10,300.00,31,21,203.23,, ,300.00,0.00,203.23,Cobro bancario agrupado en agosto; ver nota global
 1,2025-09,Lucia,nuevo,2025-08-11,2026-08-10,300.00,30,30,300.00,, ,0.00,0.00,300.00,Cobro agrupado del piso
 1,2025-10,Lucia,nuevo,2025-08-11,2026-08-10,300.00,31,31,300.00,, ,0.00,0.00,300.00,Cobro agrupado del piso

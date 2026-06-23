@@ -171,6 +171,7 @@
 - Los 4 contratos nuevos arrancan el **11/08/2025**.
 - De septiembre a diciembre 2025 se toma como base económica **4 habitaciones × 300 €/mes**.
 - La habitación 1 quedó vacante tras la salida de Imed en la fecha estipulada; esos días vacíos no se tratan como ingreso y el asesor deberá revisar su encaje final dentro de la lectura global del inmueble 2025.
+- Como criterio prudente de trabajo, esa vacante de la habitación 1 se acompaña de una imputación orientativa de renta de **`41,67 €`** por el periodo `01/04/2025` a `10/08/2025`.
 
 ### Justificantes de ingresos
 #### Documentación disponible

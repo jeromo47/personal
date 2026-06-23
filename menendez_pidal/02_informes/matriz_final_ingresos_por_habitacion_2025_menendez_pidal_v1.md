@@ -22,12 +22,18 @@ Blindar el expediente frente a revisión, separando por habitación y por mes:
 5. Desde septiembre 2025 el cobro bancario es **agrupado** (`1.200 €/mes`), por lo que la matriz distingue entre:
    - filas por habitación con renta devengada
    - y filas `GLOBAL` para el cobro efectivo agrupado del piso
+6. La vacante de la habitación 1 desde `01/04/2025` hasta `10/08/2025` incorpora una **imputación de renta orientativa de `41,67 €`**, calculada como 1/4 de la imputación anual estimada de la vivienda, para no dejar esos días vacíos sin reflejo fiscal.
 
 ## Totales de trabajo que soporta la matriz
 - tramo antiguo enero-julio: **`7.225,00 €`**
 - agosto 2025: **`812,00 €`**
 - septiembre-diciembre 2025: **`4.800,00 €`**
 - **total 2025: `12.837,00 €`**
+
+## Imputación adicional por vacante
+- habitación 1 vacía del `01/04/2025` al `10/08/2025`: **`41,67 €`** de imputación orientativa
+
+Esta imputación no forma parte del rendimiento del alquiler, sino de la lectura fiscal complementaria por días a disposición de esa parte del inmueble.
 
 ## Advertencia útil para asesor
 Las filas por habitación de la etapa nueva sirven para reconstrucción contractual y fiscal por habitación.
