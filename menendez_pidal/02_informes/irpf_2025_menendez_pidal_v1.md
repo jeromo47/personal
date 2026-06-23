@@ -30,26 +30,49 @@ Desglose de trabajo:
 
 ## Amortizaciones 2025 que estoy usando
 - inmueble: **1.318,75 €**
+  - base amortizable: `43.958,19 €`
+  - tipo: `3 %`
 - mobiliario: **173,61 €**
+  - base mobiliario: `1.736,12 €`
+  - tipo: `10 %`
 - mejora: **541,11 €**
+  - base mejora: `18.037,09 €`
+  - tipo: `3 %`
 
 ### Total amortizaciones 2025
 - **2.033,47 €**
 
 ## Resultado de trabajo 2025
-- ingresos: **12.837,00 €**
-- gastos recurrentes: **3.311,68 €**
-- resultado antes de amortizaciones: **9.525,32 €**
-- menos amortizaciones: **2.033,47 €**
-- rendimiento neto tras amortizaciones: **7.491,85 €**
-- menos arrastre 2024 pendiente: **346,60 €**
-- **rendimiento neto provisional 2025 antes del 50 %: 7.145,25 €**
+### Paso 1. Ingresos
+- ingresos 2025: **`12.837,00 €`**
+
+### Paso 2. Gastos recurrentes
+- gastos recurrentes 2025: **`3.311,68 €`**
+
+### Paso 3. Resultado antes de amortizaciones
+- cálculo: **`12.837,00 - 3.311,68 = 9.525,32 €`**
+- resultado antes de amortizaciones: **`9.525,32 €`**
+
+### Paso 4. Amortizaciones 2025
+- total amortizaciones: **`2.033,47 €`**
+
+### Paso 5. Rendimiento neto tras amortizaciones
+- cálculo: **`9.525,32 - 2.033,47 = 7.491,85 €`**
+- rendimiento neto tras amortizaciones: **`7.491,85 €`**
+
+### Paso 6. Arrastre 2024
+- arrastre 2024 de trabajo: **`346,60 €`**
+- origen: exceso de `reparación + intereses 2024 prorrateados` sobre los ingresos 2024 del alquiler
+
+### Paso 7. Rendimiento neto 2025 antes del 50 %
+- cálculo: **`7.491,85 - 346,60 = 7.145,25 €`**
+- **rendimiento neto provisional 2025 antes del 50 %: `7.145,25 €`**
 
 ## Reducción del 50 %
 Aquí no quiero cerrar nada en falso.
 
 Mi criterio es:
-- el 50 % **no** va sobre el neto anual completo de `6.163,35 €`
+- el 50 % **no** va sobre el neto anual completo de `7.145,25 €`
 - solo puede ir sobre el **tramo nuevo**
 - habitación por habitación
 - y solo si hay prueba suficiente de residencia habitual en 2025
@@ -62,7 +85,7 @@ Mi criterio es:
 ## Punto que quiero que me revises
 Quiero que me confirmes si este encaje te parece correcto y, sobre todo:
 - cómo prorratear bien el 50 % entre tramo antiguo y tramo nuevo,
-- si la vacante de la habitación 1 obliga a alguna imputación adicional,
+- si la vacante de la habitación 1 obliga a alguna imputación adicional (de momento la dejo abierta a tu valoración, no cerrada como cifra definitiva),
 - y si dejarías igual:
   - seguro 2025
   - intereses 2025

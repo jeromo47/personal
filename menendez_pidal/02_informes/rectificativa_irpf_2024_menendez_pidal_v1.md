@@ -30,32 +30,51 @@ Además de la amortización del inmueble ya declarada, al rehacer 2024 deben rev
 - amortización parcial mobiliario 2024: **56,92 €**
 
 ## Cálculo de trabajo que te propongo revisar
-Como el inmueble en 2024 solo estuvo arrendado **120 días**, he rehecho el cálculo de los intereses con prorrateo por periodo arrendado.
+En 2024 el inmueble figura en la renta presentada con:
+- **120 días arrendado**
+- **246 días a disposición**
+
+Como criterio prudente de trabajo, rehago los **intereses 2024** con prorrateo por periodo arrendado.
 
 ### Intereses 2024 prorrateados
 - intereses anuales totales 2024: **`1.460,88 €`**
-- días arrendado: **`120/366`**
-- intereses 2024 prorrateados: **`478,98 €`**
+- coeficiente temporal de arrendamiento: **`120/366 = 0,3279`**
+- cálculo: **`1.460,88 x 120 / 366 = 478,98 €`**
+- intereses 2024 prorrateados de trabajo: **`478,98 €`**
 
 ### Reparación + intereses prorrateados
-- reparación directa: **`4.450,00 €`**
+- reparación directa ya fijada: **`4.450,00 €`**
 - intereses 2024 prorrateados: **`478,98 €`**
-- total: **`4.928,98 €`**
+- total reparación + intereses prorrateados: **`4.928,98 €`**
 
-Como los ingresos del alquiler en 2024 fueron `4.582,38 €`, con este criterio resultaría:
+### Comparación con los ingresos 2024 del alquiler
+- ingresos íntegros declarados del alquiler: **`4.582,38 €`**
+- gasto reparación + intereses prorrateados: **`4.928,98 €`**
+- exceso sobre ingresos del alquiler: **`346,60 €`**
+
+### Consecuencia de trabajo
+Con este criterio, resulta:
 - deducción hasta el límite de **`4.582,38 €`**
 - y **arrastre a 2025 de `346,60 €`**
 
-Además, quedarían por incorporar las amortizaciones parciales de mejora y mobiliario arriba indicadas.
+### Amortizaciones parciales 2024 adicionales a revisar
+Además de la amortización del inmueble ya declarada (`432,38 €`), quiero que revises estas dos:
+- amortización parcial mejora 2024: **`177,41 €`**
+  - base mejora: `18.037,09 €`
+  - amortización anual al 3 %: `541,11 €`
+  - prorrateo `120/366`: `177,41 €`
+- amortización parcial mobiliario 2024: **`56,92 €`**
+  - base mobiliario: `1.736,12 €`
+  - amortización anual al 10 %: `173,61 €`
+  - prorrateo `120/366`: `56,92 €`
 
-## Punto que quiero que me valides
-Este documento ya te lo dejo con el cálculo prorrateado porque, si el criterio correcto es ligar los intereses al periodo arrendado de 2024, me parece más prudente partir de ahí.
+## Qué quiero que me valides
+Te lo dejo ya con este criterio prorrateado porque me parece el punto de partida más prudente si en 2024 el piso no estuvo arrendado todo el año.
 
-Necesito que me confirmes si lo correcto es efectivamente este enfoque:
-- **intereses 2024 prorrateados = `478,98 €`**
-- **arrastre a 2025 = `346,60 €`**
-
-Si, por el contrario, el criterio correcto fuera distinto, prefiero ajustarlo ahora antes de cerrar 2025.
+Lo que necesito que revises es:
+- si el prorrateo de intereses 2024 está bien hecho así
+- si el exceso arrastrable correcto a 2025 es **`346,60 €`**
+- y cómo encajan exactamente las amortizaciones parciales de mejora y mobiliario dentro de la rectificativa
 
 ## Resultado esperado de trabajo
 Mi impresión es que, rehaciendo bien 2024:
