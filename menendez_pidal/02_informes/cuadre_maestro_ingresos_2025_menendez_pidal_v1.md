@@ -62,7 +62,7 @@ Ya fijado y compatible con el expediente tras la última aclaración de Jero:
 - ingreso visto en Unicaja: `1.412,00 €`
 - renta prorrateada correcta de agosto: `812,00 €`
 - fianza que sí entra en cuenta: `600,00 €` -> no renta
-- honorarios de inmobiliaria: `600,00 €` -> gasto, no ingreso
+- importe restante sin factura válida: `600,00 €` -> fuera de gasto deducible, no ingreso
 
 ## Tramo septiembre-diciembre 2025
 Base operativa ya fijada:

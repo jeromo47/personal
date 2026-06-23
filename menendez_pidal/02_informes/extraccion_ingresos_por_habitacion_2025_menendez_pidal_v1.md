@@ -110,18 +110,18 @@ Aclaración fijada por Jero:
 - los inquilinos hicieron una transferencia a Unicaja de **`1.412,00 €`**
 - la renta prorrateada correcta de agosto desde el `11/08/2025` es **`812,00 €`**
 - la diferencia hasta el total ingresado en cuenta es **`600,00 €`**, que corresponde a la parte que sí llegó a Jero de las fianzas
-- los **`600,00 €`** restantes hasta el total económico del arranque (`1.200,00 €` de fianzas + `812,00 €` de renta) quedaron absorbidos por la inmobiliaria en concepto de honorarios
+- los **`600,00 €`** restantes hasta el total económico del arranque (`1.200,00 €` de fianzas + `812,00 €` de renta) se dejaron fuera del gasto fiscal porque no existe factura válida ni se pagó IVA
 
 ## Tratamiento
 - **`812,00 €`** se toma como renta devengada/cobrada de agosto 2025
 - **`600,00 €`** de la entrada en cuenta se tratan como fianza, no como renta
-- **`600,00 €`** de honorarios de inmobiliaria se tratan como gasto separado
+- los **`600,00 €`** restantes no se meten como gasto deducible por falta de factura válida
 
 ## Lectura práctica
 A la vista de esta aclaración, en este expediente agosto 2025 debe leerse así:
 - renta de agosto: **`812,00 €`**
 - fianza que entra en cuenta: **`600,00 €`**
-- honorarios de inmobiliaria: **`600,00 €`**
+- importe no deducible sin factura: **`600,00 €`**
 - ingreso visto en Unicaja: **`1.412,00 €`**
 
 ## 4. Nueva etapa septiembre-diciembre 2025

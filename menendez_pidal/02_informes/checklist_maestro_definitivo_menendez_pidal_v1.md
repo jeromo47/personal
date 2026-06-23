@@ -133,13 +133,12 @@ Alinear el trabajo documental y fiscal del piso de Menéndez Pidal con la estruc
 | Contratos antiguos enero-julio 2025 | Soporte del primer semestre | Tienes en parte trabajados | Alta | Consolidar carpeta/listado |
 | Contrato nuevo Lucía hab. 1 | Desde `11/08/2025`, `300 €/mes` | Tienes | Alta | Mantener |
 | Registro interno de ingresos / imputación | Desglose por fecha, concepto y habitación | Parcial / idea generada | Muy alta | Consolidar versión final |
-| Separación agosto 2025 | `1.200 €` fianza + `212 €` ingreso + `600 €` inmobiliaria | Tienes | Muy alta | Mantener como criterio cerrado |
+| Separación agosto 2025 | `600 €` fianza en cuenta + `812 €` renta agosto + `600 €` importe restante no deducible sin factura válida | Tienes | Muy alta | Mantener como criterio cerrado |
 
 ## Documentación pendiente
 | Documento | Detalle exigible | Estado real | Prioridad | Acción |
 |---|---|---|---|---|
 | 3 contratos nuevos restantes | Habitaciones 2, 3 y 4, firmados | Los firmados existen en expediente/inbound; conviene archivarlos de forma más visible si hace falta | Media | Mantener localizados |
-| Justificante ingreso inmobiliaria septiembre/agosto | Recibo/liquidación del cobro o gestión | Pendiente | Muy alta | Pedir a inmobiliaria |
 | Justificantes de las 4 fianzas | `300 € × 4`, con identificación de pagadores | Parcial | Media | Reunir |
 | Tabla final de ingresos por habitación | Cronología completa de ingresos y ocupación | Parcialmente cerrada en criterio, pendiente de volcado final limpio | Alta | Consolidar con dos etapas: tramo antiguo y tramo nuevo |
 
@@ -260,7 +259,6 @@ Aplicar la reducción únicamente a las habitaciones / inquilinos respecto de lo
 
 ## Pedir o descargar
 - [ ] Nota simple registral 2026.
-- [ ] Justificante ingreso inmobiliaria septiembre/agosto 2025.
 - [ ] Justificantes de fianzas.
 - [ ] 12 facturas de luz 2025.
 - [ ] Facturas de agua 2025.
@@ -302,7 +300,6 @@ Aplicar la reducción únicamente a las habitaciones / inquilinos respecto de lo
 - [ ] Construir hoja de prorrateo visible.
 
 ### Prioridad 4
-- [ ] Pedir justificante inmobiliaria.
 - [ ] Revisar fechas/metadatos de fotos.
 - [ ] Comprobar AVRA.
 
@@ -318,5 +315,4 @@ Sí necesita cerrar primero los puntos que cambian el resultado fiscal o la defe
 - OBRAMAT fino
 - reducción por inquilino
 - prorrateo visible
-- justificante inmobiliaria
 - clasificación fiscal definitiva de la reforma

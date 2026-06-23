@@ -139,12 +139,12 @@ Aclaración ya fijada por Jero:
 - los inquilinos hicieron una transferencia a Unicaja de **`1.412,00 €`**
 - la renta prorrateada correcta de agosto desde la entrada el `11/08/2025` es **`812,00 €`**
 - dentro de ese ingreso bancario hay **`600,00 €`** de fianza
-- los **`600,00 €`** restantes hasta el total económico del arranque (`1.200,00 €` de fianzas + `812,00 €` de renta) quedaron absorbidos por la inmobiliaria como honorarios
+- los **`600,00 €`** restantes hasta el total económico del arranque (`1.200,00 €` de fianzas + `812,00 €` de renta) no se meten como gasto deducible porque no existe factura válida y no se pagó IVA
 
 ## Tratamiento correcto
 - la **renta de agosto** a computar como ingreso en este punto es **`812,00 €`**
 - la **fianza** no es renta
-- la **inmobiliaria** no reduce el ingreso de renta, sino que se deduce como gasto separado
+- el importe restante de `600,00 €` no reduce el ingreso de renta y tampoco se mete como gasto deducible por falta de factura válida
 
 ## Ingresos de septiembre a diciembre 2025
 Se toma como foto base:
@@ -181,7 +181,7 @@ La versión que revise el asesor debe trabajar con un **desglose mes a mes real*
 - renta contractual por habitación
 - cobro real bancario
 - fianza / no renta
-- ajustes / inmobiliaria
+- ajustes / importes no renta / importes no deducibles
 - ingreso fiscal computable final
 
 ## Gastos recurrentes 2025 recomendados
@@ -192,17 +192,16 @@ La versión que revise el asesor debe trabajar con un **desglose mes a mes real*
 - seguro hogar prorrateado: **331,36 €**
 - intereses hipotecarios 2025: **1.423,76 €**
 - tasa de basura 2025: **64,77 €**
-- inmobiliaria / gestión captación agosto 2025: **600,00 €**
 
 ## Total gastos recurrentes base recomendados 2025
-Sin incluir todavía internet ni mantenimiento de cuenta y añadiendo basura + inmobiliaria:
-- **3.911,68 €**
+Sin incluir todavía internet ni mantenimiento de cuenta y añadiendo basura:
+- **3.311,68 €**
 
 ## Resultado base orientativo 2025
 Si se usa como base provisional el cuadre de ingresos más coherente con Unicaja:
 - ingresos: **`12.837,00 €`**
-- gastos recurrentes base: **`3.911,68 €`**
-- rendimiento neto base provisional **antes de amortizaciones**: **`8.925,32 €`**
+- gastos recurrentes base: **`3.311,68 €`**
+- rendimiento neto base provisional **antes de amortizaciones**: **`9.525,32 €`**
 
 > Nota: esta cifra sigue siendo una base de trabajo prudente, pero ya está alineada con el criterio rector fijado por Jero, esto es, que si un ingreso no está confirmado en Unicaja no se da por bueno.
 
@@ -323,11 +322,11 @@ pero sí se toma por bueno que:
 - **`2.033,47 €`**
 
 ## Rendimiento neto base provisional 2025 tras amortizaciones
-- rendimiento neto provisional antes de amortizaciones: **`8.925,32 €`**
+- rendimiento neto provisional antes de amortizaciones: **`9.525,32 €`**
 - menos amortizaciones 2025: **`2.033,47 €`**
-- rendimiento neto base provisional tras amortizaciones: **`6.891,85 €`**
+- rendimiento neto base provisional tras amortizaciones: **`7.491,85 €`**
 - menos arrastre / exceso pendiente de 2024 a integrar en 2025: **`1.328,50 €`**
-- **rendimiento neto base provisional 2025 antes de reducción del 50 %: `5.563,35 €`**
+- **rendimiento neto base provisional 2025 antes de reducción del 50 %: `6.163,35 €`**
 
 ---
 
@@ -363,7 +362,7 @@ pero el asesor debería recalcularlo ya con la base imponible completa real de c
 ## Pendientes reales que siguen abiertos
 - prueba de residencia de los 4 inquilinos para poder aplicar reducción del 50 % con seguridad
 - validación final de la base amortizable patrimonial por parte del asesor
-- soporte documental más fino del gasto de inmobiliaria de `600,00 €`, si finalmente se quiere blindar con justificante o liquidación
+- confirmar simplemente que el importe restante de `600,00 €` queda fuera de gasto deducible por falta de factura válida
 - decisión técnica final del asesor sobre si usa separación de reparación de `4.450 €` o criterio algo más amplio, aunque la línea recomendada aquí es la prudente
 
 ---
@@ -379,7 +378,7 @@ pero el asesor debería recalcularlo ya con la base imponible completa real de c
 
 ## Para IRPF 2025
 1. validar como base operativa el desglose ya corregido con Unicaja, con **`12.837,00 €`** de ingresos de trabajo 2025
-2. validar gastos recurrentes 2025 incluyendo basura `64,77 €` y `600,00 €` de inmobiliaria
+2. validar gastos recurrentes 2025 incluyendo basura `64,77 €` y excluyendo el importe restante de `600,00 €` por falta de factura válida
 3. validar la base de amortizaciones 2025 ya reconstruida (`2.033,47 €` en total)
 4. decidir aplicación efectiva del 50 % habitación por habitación según documentación de residencia
 
@@ -403,15 +402,15 @@ La rectificación 2024 debe partir de la declaración real ya presentada y añad
 
 La declaración 2025 está ya bastante avanzada y, a día de hoy, la foto operativa buena de trabajo es esta:
 - ingresos 2025 corregidos con Unicaja: **`12.837,00 €`**
-- gastos recurrentes base 2025: **`3.911,68 €`**
+- gastos recurrentes base 2025: **`3.311,68 €`**
 - amortizaciones 2025 reconstruidas: **`2.033,47 €`**
-- rendimiento neto base provisional 2025 tras amortizaciones: **`6.891,85 €`**
+- rendimiento neto base provisional 2025 tras amortizaciones: **`7.491,85 €`**
 - menos arrastre 2024 pendiente a integrar en 2025: **`1.328,50 €`**
-- rendimiento neto base provisional 2025 antes de reducción del 50 %: **`5.563,35 €`**
+- rendimiento neto base provisional 2025 antes de reducción del 50 %: **`6.163,35 €`**
 
 Además:
 - Imed debe tratarse como **vacante desde abril 2025**
-- agosto 2025 debe separarse en **`812,00 €`** de renta, **`600,00 €`** de fianza que entra en cuenta y **`600,00 €`** de inmobiliaria absorbidos fuera de esa entrada
+- agosto 2025 debe separarse en **`812,00 €`** de renta, **`600,00 €`** de fianza que entra en cuenta y un importe restante de **`600,00 €`** que no se mete como gasto deducible por falta de factura válida
 - el 50 % solo debe cerrarse donde la prueba de residencia de los inquilinos quede realmente acreditada
 
 La clave de ambos ejercicios está en:
@@ -419,7 +418,7 @@ La clave de ambos ejercicios está en:
 - intereses 2024/2025,
 - separación reparación vs mejora,
 - mobiliario amortizable,
-- gasto de inmobiliaria,
+- tratamiento prudente de importes sin factura válida,
 - y reducción del 50 % solo donde la residencia habitual de los inquilinos quede realmente probada.
 
-> Nota práctica: este documento ya está razonablemente pulido para trabajo con asesor, pero mantiene una prudencia deliberada allí donde todavía sería deseable reforzar soporte, por ejemplo con justificante formal de la inmobiliaria o con la prueba de residencia de los inquilinos para la reducción del 50 %.
+> Nota práctica: este documento ya está razonablemente pulido para trabajo con asesor y aplica un criterio prudente dejando fuera como gasto deducible el importe restante de `600,00 €` por falta de factura válida. Sigue pendiente la prueba de residencia de los inquilinos para la reducción del 50 %.

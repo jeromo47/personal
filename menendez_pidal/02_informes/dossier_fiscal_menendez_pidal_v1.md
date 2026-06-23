@@ -178,10 +178,9 @@
 - Separación ya fijada del ingreso de agosto 2025:
   - **1.200,00 €** fianza
   - **212,00 €** ingreso real
-  - **600,00 €** inmobiliaria
+  - **600,00 €** importe restante no deducible sin factura válida
 
 #### Documentación pendiente
-- Justificante del ingreso de septiembre 2025 de la inmobiliaria por **1.200,00 €** / justificante de liquidación o gestión.
 - Justificantes de cobro de las 4 fianzas: **300 € × 4 = 1.200 €**.
 - Tabla final cerrada de ingresos por habitación / periodo.
 
