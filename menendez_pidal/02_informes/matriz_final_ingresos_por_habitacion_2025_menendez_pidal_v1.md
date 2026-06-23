@@ -18,11 +18,12 @@ Blindar el expediente frente a revisión, separando por habitación y por mes:
    - renta total etapa nueva: **`812,00 €`**
    - fianza efectivamente ingresada en cuenta: **`600,00 €`**
    - ingreso total visto en Unicaja: **`1.412,00 €`**
+   - reparto de trabajo por habitación en agosto: **`203,00 €`** cada una, para cuadrar exactamente los `812,00 €` bancarios/fiscales del mes
 4. El importe restante de `600,00 €` vinculado a la agencia **no se mete como gasto deducible** por falta de factura válida.
 5. Desde septiembre 2025 el cobro bancario es **agrupado** (`1.200 €/mes`), por lo que la matriz distingue entre:
    - filas por habitación con renta devengada
    - y filas `GLOBAL` para el cobro efectivo agrupado del piso
-6. La vacante de la habitación 1 desde `01/04/2025` hasta `10/08/2025` incorpora una **imputación de renta orientativa de `41,67 €`**, calculada como 1/4 de la imputación anual estimada de la vivienda, para no dejar esos días vacíos sin reflejo fiscal.
+6. La vacante de la habitación 1 desde `01/04/2025` hasta `10/08/2025` queda **identificada y abierta a valoración del asesor**. Si se quiere forzar una lectura prudente, existe una imputación orientativa ya trabajada de `41,67 €`, pero no se impone aquí como cierre definitivo.
 
 ## Totales de trabajo que soporta la matriz
 - tramo antiguo enero-julio: **`7.225,00 €`**
@@ -31,9 +32,8 @@ Blindar el expediente frente a revisión, separando por habitación y por mes:
 - **total 2025: `12.837,00 €`**
 
 ## Imputación adicional por vacante
-- habitación 1 vacía del `01/04/2025` al `10/08/2025`: **`41,67 €`** de imputación orientativa
-
-Esta imputación no forma parte del rendimiento del alquiler, sino de la lectura fiscal complementaria por días a disposición de esa parte del inmueble.
+- habitación 1 vacía del `01/04/2025` al `10/08/2025`: tema **abierto a valoración del asesor**
+- existe un cálculo orientativo previo de `41,67 €`, pero se deja fuera del cierre duro de esta matriz mientras no se fije el criterio final
 
 ## Advertencia útil para asesor
 Las filas por habitación de la etapa nueva sirven para reconstrucción contractual y fiscal por habitación.

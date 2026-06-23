@@ -45,9 +45,11 @@ Existe plano base con las medidas empleadas, aportable si se requiere.
 
 ## Totales imputados por habitación
 - H1: `806,28 €`
-- H2: `1.137,79 €`
-- H3: `1.246,65 €`
+- H2: `1.138,79 €`
+- H3: `1.249,65 €`
 - H4: `1.476,96 €`
+
+La suma de estas cuatro bolsas no agota el 100 % del gasto anual del inmueble, porque el coeficiente temporal aplicado por habitación deja fuera los periodos de vacante; ese remanente no se fuerza artificialmente sobre habitaciones no ocupadas.
 
 ## Notas
 - Es una hoja maestra de trabajo para asesor / Excel.
