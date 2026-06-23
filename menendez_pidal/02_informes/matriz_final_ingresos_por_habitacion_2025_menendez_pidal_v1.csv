@@ -1,0 +1,54 @@
+habitacion,mes,inquilino,contrato,fecha_entrada,fecha_salida,renta_mensual,dias_del_mes,dias_ocupados,renta_devengada,cobro_banco,diferencia,fianza,suministros,ingreso_fiscal_final,notas
+1,2025-01,Imed,antiguo,2024-10-05,2025-03-31,295.00,31,31,295.00,295.00,0.00,0.00,0.00,295.00,Cobro confirmado en Unicaja
+1,2025-02,Imed,antiguo,2024-10-05,2025-03-31,295.00,28,28,295.00,295.00,0.00,0.00,0.00,295.00,Cobro confirmado en Unicaja
+1,2025-03,Imed,antiguo,2024-10-05,2025-03-31,295.00,31,31,295.00,295.00,0.00,0.00,0.00,295.00,Cobro confirmado en Unicaja
+1,2025-04,Vacante,,2025-04-01,2025-08-10,295.00,30,0,0.00,0.00,0.00,0.00,0.00,0.00,Habitación vacante tras salida de Imed
+1,2025-05,Vacante,,2025-04-01,2025-08-10,295.00,31,0,0.00,0.00,0.00,0.00,0.00,0.00,Habitación vacante
+1,2025-06,Vacante,,2025-04-01,2025-08-10,295.00,30,0,0.00,0.00,0.00,0.00,0.00,0.00,Habitación vacante
+1,2025-07,Vacante,,2025-04-01,2025-08-10,295.00,31,0,0.00,0.00,0.00,0.00,0.00,0.00,Habitación vacante
+1,2025-08,Lucia,nuevo,2025-08-11,2026-08-10,300.00,31,21,203.23,, ,300.00,0.00,203.23,Cobro bancario agrupado en agosto; ver nota global
+1,2025-09,Lucia,nuevo,2025-08-11,2026-08-10,300.00,30,30,300.00,, ,0.00,0.00,300.00,Cobro agrupado del piso
+1,2025-10,Lucia,nuevo,2025-08-11,2026-08-10,300.00,31,31,300.00,, ,0.00,0.00,300.00,Cobro agrupado del piso
+1,2025-11,Lucia,nuevo,2025-08-11,2026-08-10,300.00,30,30,300.00,, ,0.00,0.00,300.00,Cobro agrupado del piso
+1,2025-12,Lucia,nuevo,2025-08-11,2026-08-10,300.00,31,31,300.00,, ,0.00,0.00,300.00,Cobro agrupado del piso
+2,2025-01,Juanjo,antiguo,2024-09-01,2025-06-30,310.00,31,31,310.00,310.00,0.00,0.00,0.00,310.00,Cobro confirmado en Unicaja
+2,2025-02,Juanjo,antiguo,2024-09-01,2025-06-30,310.00,28,28,310.00,310.00,0.00,0.00,0.00,310.00,Cobro confirmado en Unicaja
+2,2025-03,Juanjo,antiguo,2024-09-01,2025-06-30,310.00,31,31,310.00,310.00,0.00,0.00,0.00,310.00,Cobro confirmado en Unicaja
+2,2025-04,Juanjo,antiguo,2024-09-01,2025-06-30,310.00,30,30,310.00,310.00,0.00,0.00,0.00,310.00,Cobro confirmado en Unicaja
+2,2025-05,Juanjo,antiguo,2024-09-01,2025-06-30,310.00,31,31,310.00,310.00,0.00,0.00,0.00,310.00,Cobro confirmado en Unicaja
+2,2025-06,Juanjo,antiguo,2024-09-01,2025-06-30,310.00,30,30,310.00,310.00,0.00,0.00,0.00,310.00,Cobro confirmado en Unicaja
+2,2025-07,Vacante,,2025-07-01,2025-08-10,310.00,31,0,0.00,0.00,0.00,0.00,0.00,0.00,Habitación vacante
+2,2025-08,German,nuevo,2025-08-11,2026-08-10,300.00,31,21,203.23,, ,300.00,0.00,203.23,Cobro bancario agrupado en agosto; ver nota global
+2,2025-09,German,nuevo,2025-08-11,2026-08-10,300.00,30,30,300.00,, ,0.00,0.00,300.00,Cobro agrupado del piso
+2,2025-10,German,nuevo,2025-08-11,2026-08-10,300.00,31,31,300.00,, ,0.00,0.00,300.00,Cobro agrupado del piso
+2,2025-11,German,nuevo,2025-08-11,2026-08-10,300.00,30,30,300.00,, ,0.00,0.00,300.00,Cobro agrupado del piso
+2,2025-12,German,nuevo,2025-08-11,2026-08-10,300.00,31,31,300.00,, ,0.00,0.00,300.00,Cobro agrupado del piso
+3,2025-01,Erick,antiguo,2024-10-01,2025-07-31,310.00,31,31,310.00,310.00,0.00,0.00,0.00,310.00,Cobro confirmado en Unicaja
+3,2025-02,Erick,antiguo,2024-10-01,2025-07-31,310.00,28,28,310.00,310.00,0.00,0.00,0.00,310.00,Cobro confirmado en Unicaja
+3,2025-03,Erick,antiguo,2024-10-01,2025-07-31,310.00,31,31,310.00,310.00,0.00,0.00,0.00,310.00,Cobro confirmado en Unicaja
+3,2025-04,Erick,antiguo,2024-10-01,2025-07-31,310.00,30,30,310.00,310.00,0.00,0.00,0.00,310.00,Cobro confirmado en Unicaja
+3,2025-05,Erick,antiguo,2024-10-01,2025-07-31,310.00,31,31,310.00,310.00,0.00,0.00,0.00,310.00,Cobro confirmado en Unicaja
+3,2025-06,Erick,antiguo,2024-10-01,2025-07-31,310.00,30,30,310.00,310.00,0.00,0.00,0.00,310.00,Cobro confirmado en Unicaja
+3,2025-07,Erick,antiguo,2024-10-01,2025-07-31,310.00,31,31,310.00,310.00,0.00,0.00,0.00,310.00,Cobro confirmado en Unicaja
+3,2025-08,Maria Carolina,nuevo,2025-08-11,2026-08-10,300.00,31,21,203.23,, ,300.00,0.00,203.23,Cobro bancario agrupado en agosto; ver nota global
+3,2025-09,Maria Carolina,nuevo,2025-08-11,2026-08-10,300.00,30,30,300.00,, ,0.00,0.00,300.00,Cobro agrupado del piso
+3,2025-10,Maria Carolina,nuevo,2025-08-11,2026-08-10,300.00,31,31,300.00,, ,0.00,0.00,300.00,Cobro agrupado del piso
+3,2025-11,Maria Carolina,nuevo,2025-08-11,2026-08-10,300.00,30,30,300.00,, ,0.00,0.00,300.00,Cobro agrupado del piso
+3,2025-12,Maria Carolina,nuevo,2025-08-11,2026-08-10,300.00,31,31,300.00,, ,0.00,0.00,300.00,Cobro agrupado del piso
+4,2025-01,Andrea,antiguo,2024-10-01,2025-07-31,330.00,31,31,330.00,330.00,0.00,0.00,0.00,330.00,Cobro confirmado en Unicaja
+4,2025-02,Andrea,antiguo,2024-10-01,2025-07-31,330.00,28,28,330.00,330.00,0.00,0.00,0.00,330.00,Cobro confirmado en Unicaja
+4,2025-03,Andrea,antiguo,2024-10-01,2025-07-31,330.00,31,31,330.00,330.00,0.00,0.00,0.00,330.00,Cobro confirmado en Unicaja
+4,2025-04,Andrea,antiguo,2024-10-01,2025-07-31,330.00,30,30,330.00,330.00,0.00,0.00,0.00,330.00,Cobro confirmado en Unicaja
+4,2025-05,Andrea,antiguo,2024-10-01,2025-07-31,330.00,31,31,330.00,330.00,0.00,0.00,0.00,330.00,Cobro confirmado en Unicaja
+4,2025-06,Andrea,antiguo,2024-10-01,2025-07-31,330.00,30,30,330.00,330.00,0.00,0.00,0.00,330.00,Cobro confirmado en Unicaja
+4,2025-07,Andrea,antiguo,2024-10-01,2025-07-31,330.00,31,31,330.00,330.00,0.00,0.00,0.00,330.00,Cobro confirmado en Unicaja
+4,2025-08,Javier,nuevo,2025-08-11,2026-08-10,300.00,31,21,203.23,, ,300.00,0.00,203.23,Cobro bancario agrupado en agosto; ver nota global
+4,2025-09,Javier,nuevo,2025-08-11,2026-08-10,300.00,30,30,300.00,, ,0.00,0.00,300.00,Cobro agrupado del piso
+4,2025-10,Javier,nuevo,2025-08-11,2026-08-10,300.00,31,31,300.00,, ,0.00,0.00,300.00,Cobro agrupado del piso
+4,2025-11,Javier,nuevo,2025-08-11,2026-08-10,300.00,30,30,300.00,, ,0.00,0.00,300.00,Cobro agrupado del piso
+4,2025-12,Javier,nuevo,2025-08-11,2026-08-10,300.00,31,31,300.00,, ,0.00,0.00,300.00,Cobro agrupado del piso
+GLOBAL,2025-08,TOTAL_ETAPA_NUEVA,nuevo,2025-08-11,2025-08-31,1200.00,31,21,812.00,1412.00,-600.00,600.00,0.00,812.00,Ingreso bancario agrupado: 812 renta + 600 fianza en cuenta; 600 restantes fuera de gasto deducible por falta de factura válida
+GLOBAL,2025-09,TOTAL_ETAPA_NUEVA,nuevo,2025-09-01,2025-09-30,1200.00,30,30,1200.00,1200.00,0.00,0.00,0.00,1200.00,Cobro agrupado confirmado del piso
+GLOBAL,2025-10,TOTAL_ETAPA_NUEVA,nuevo,2025-10-01,2025-10-31,1200.00,31,31,1200.00,1200.00,0.00,0.00,0.00,1200.00,Cobro agrupado confirmado del piso
+GLOBAL,2025-11,TOTAL_ETAPA_NUEVA,nuevo,2025-11-01,2025-11-30,1200.00,30,30,1200.00,1200.00,0.00,0.00,0.00,1200.00,Cobro agrupado confirmado del piso
+GLOBAL,2025-12,TOTAL_ETAPA_NUEVA,nuevo,2025-12-01,2025-12-31,1200.00,31,31,1200.00,1200.00,0.00,0.00,0.00,1200.00,Cobro agrupado confirmado del piso
