@@ -29,29 +29,33 @@ Además de la amortización del inmueble ya declarada, al rehacer 2024 deben rev
 - amortización parcial mejora 2024: **177,41 €**
 - amortización parcial mobiliario 2024: **56,92 €**
 
-## Idea fiscal que quiero que revises
-Mi lectura es esta:
-- reparación `4.450,00 €`
-- intereses 2024 `1.460,88 €`
-- total reparación + intereses `5.910,88 €`
+## Cálculo de trabajo que te propongo revisar
+Como el inmueble en 2024 solo estuvo arrendado **120 días**, he rehecho el cálculo de los intereses con prorrateo por periodo arrendado.
 
-Como los ingresos del alquiler en 2024 fueron `4.582,38 €`, entiendo que:
-- se deduce hasta ese límite
-- y queda un **arrastre de 1.328,50 € a 2025**
+### Intereses 2024 prorrateados
+- intereses anuales totales 2024: **`1.460,88 €`**
+- días arrendado: **`120/366`**
+- intereses 2024 prorrateados: **`478,98 €`**
+
+### Reparación + intereses prorrateados
+- reparación directa: **`4.450,00 €`**
+- intereses 2024 prorrateados: **`478,98 €`**
+- total: **`4.928,98 €`**
+
+Como los ingresos del alquiler en 2024 fueron `4.582,38 €`, con este criterio resultaría:
+- deducción hasta el límite de **`4.582,38 €`**
+- y **arrastre a 2025 de `346,60 €`**
 
 Además, quedarían por incorporar las amortizaciones parciales de mejora y mobiliario arriba indicadas.
 
 ## Punto que quiero que me valides
-Me has comentado que los intereses de la hipoteca no se metieron porque el piso no estuvo alquilado todo el año.
+Este documento ya te lo dejo con el cálculo prorrateado porque, si el criterio correcto es ligar los intereses al periodo arrendado de 2024, me parece más prudente partir de ahí.
 
-Necesito que revises cuál es el encaje correcto en 2024:
-- si los intereses se meten íntegros dentro del límite del rendimiento del alquiler,
-- o si deben **prorratearse por el periodo arrendado / afecto**, igual que otros conceptos.
+Necesito que me confirmes si lo correcto es efectivamente este enfoque:
+- **intereses 2024 prorrateados = `478,98 €`**
+- **arrastre a 2025 = `346,60 €`**
 
-No quiero forzar un criterio si técnicamente debe prorratearse. Lo importante para mí es dejar bien cerrado:
-- qué parte de intereses 2024 entra,
-- qué parte de reparación entra,
-- y qué arrastre exacto pasa a 2025.
+Si, por el contrario, el criterio correcto fuera distinto, prefiero ajustarlo ahora antes de cerrar 2025.
 
 ## Resultado esperado de trabajo
 Mi impresión es que, rehaciendo bien 2024:
