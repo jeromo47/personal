@@ -158,13 +158,12 @@ La corrección al ceñirse a Unicaja y rehacer bien agosto deja:
 - **`285,00 €`**
 
 ## Explicación de la diferencia
-La diferencia sale de no dar por confirmados en habitación 1 los meses:
-- abril 2025
-- mayo 2025
-- junio 2025
+La diferencia final de **`285,00 €`** sale de dos ajustes combinados:
+- **`-885,00 €`** por eliminar abril-mayo-junio 2025 de Imed, al quedar la habitación vacante desde abril
+- **`+600,00 €`** por corregir agosto 2025 desde el neto erróneo de `212,00 €` a la renta prorrateada correcta de `812,00 €`
 
-Es decir:
-- `295 € x 3 = 885 €`
+Resultado neto de ambos ajustes:
+- `-885,00 € + 600,00 € = -285,00 €`
 
 ## 7. Conclusión práctica
 A efectos de trabajo con asesor y cuadre interno, este documento debe leerse así:
@@ -176,4 +175,4 @@ A efectos de trabajo con asesor y cuadre interno, este documento debe leerse as�
 
 ## 8. Pendiente fino todavía abierto
 Para cerrar al céntimo la foto final seguiría siendo útil revisar el detalle movimiento a movimiento de la cuenta `5436`, pero la corrección principal ya queda hecha:
-- **el informe de ingresos por habitación ya no asume cobros de Imed en abril-junio 2025 que no están confirmados en Unicaja**.
+- **el informe de ingresos por habitación ya no asume cobros de Imed en abril-junio 2025 porque la habitación quedó vacante desde abril 2025**.

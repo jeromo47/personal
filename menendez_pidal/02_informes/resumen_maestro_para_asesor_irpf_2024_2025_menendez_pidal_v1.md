@@ -89,6 +89,12 @@ El gran hueco técnico que ahora sí conviene dejar señalado expresamente es es
 
 Este punto es importante porque el arranque de la amortización debe ser coherente entre 2024 y 2025.
 
+## Punto técnico adicional a revisar en 2024
+- El seguro declarado en 2024 fue **`586,17 €`**, mientras que en 2025 el criterio prudente de trabajo usa **`331,36 €`** por prorrateo del seguro trianual CASER.
+- Además, los tributos declarados en 2024 fueron **`321,03 €`**, cifra que coincide con **IBI 2025 `256,26 €` + basura 2025 `64,77 €`**.
+
+Esto no invalida la estrategia general, pero sí aconseja que el asesor revise si en 2024 hubo un arrastre mecánico de cifras o una falta de prorrateo fino en el bloque de seguro/tributos.
+
 ---
 
 # 3. Intereses hipotecarios

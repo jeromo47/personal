@@ -176,9 +176,9 @@
 - Extracto completo de la cuenta `5436` del año 2025.
 - Registro interno mensual de rentas por habitación en fase de consolidación.
 - Separación ya fijada del ingreso de agosto 2025:
-  - **1.200,00 €** fianza
-  - **212,00 €** ingreso real
-  - **600,00 €** importe restante no deducible sin factura válida
+  - **600,00 €** fianza efectivamente ingresada en cuenta
+  - **812,00 €** renta prorrateada correcta de agosto
+  - **600,00 €** importe restante no incorporado como gasto deducible por falta de factura válida
 
 #### Documentación pendiente
 - Justificantes de cobro de las 4 fianzas: **300 € × 4 = 1.200 €**.
@@ -206,11 +206,13 @@
 - Decidir si internet entra o no en la versión final prudente.
 - Decidir si el mantenimiento de cuenta queda definitivamente fuera.
 
-### Cifra base fiscal ya fijada
-- Ingresos base 2025: **10.825,00 €**
-- Gastos deducibles base recomendados previos: **3.246,91 €**
-- Ajuste adicional ya identificado: basura 2025 **64,77 €**
-- Rendimiento neto base orientativo actualizado, si se incorpora basura: **7.513,32 €**
+### Cifra base fiscal de trabajo ya fijada
+- Ingresos 2025 corregidos con Unicaja: **12.837,00 €**
+- Gastos recurrentes base deducibles 2025: **3.311,68 €**
+- Amortizaciones 2025 reconstruidas: **2.033,47 €**
+- Rendimiento neto provisional 2025 tras amortizaciones: **7.491,85 €**
+- Arrastre 2024 pendiente a integrar en 2025: **1.328,50 €**
+- Rendimiento neto provisional 2025 antes de reducción del 50 %: **6.163,35 €**
 
 ---
 
@@ -262,6 +264,8 @@ Aplicar la reducción del 50% del artículo 23.2 LIRPF únicamente en las habita
 
 ### Pendiente
 - Nota explicativa sobre doble acceso Antonio Cano 51 / Menéndez Pidal 52.
+- Nota breve sobre el tratamiento del seguro 2024 frente al prorrateo prudente del seguro CASER en 2025.
+- Nota breve revisando si los tributos 2024 se construyeron por arrastre/no prorrateo al coincidir con IBI + basura de 2025.
 - Narrativa de un folio explicando:
   - origen del inmueble
   - estado inicial deteriorado

@@ -22,7 +22,7 @@ Resumen extraído:
 - Lucía Tersoglio: `6.000,00 €` en `5` movimientos, desde `05/10/2025` hasta `08/02/2026`
 - German Cordero: `3.600,00 €` en `3` movimientos, desde `10/03/2026` hasta `08/05/2026`
 - total recurrente incluido en la hoja: `21.490,20 €`
-- ingreso puntual separado: `1.412,00 €` = `1.200,00 €` fianza + `212,00 €` prorrata / ingreso real agosto
+- ingreso puntual separado: `1.412,00 €`, que en la reconstrucción final del expediente se relee como `812,00 €` de renta de agosto + `600,00 €` de fianza efectivamente ingresada en cuenta
 
 ## Criterio de lectura para 2025
 ### Etapa antigua 2025
@@ -54,8 +54,7 @@ Es decir:
 - pero la extracción bancaria resumida de Unicaja solo le detecta ingresos hasta `04/03/2025`
 
 ## Lectura prudente
-Mientras no se reconstruya el detalle movimiento a movimiento de esos meses, el criterio más sólido para cuadrar con Unicaja es:
-- **no dar por bueno abril-junio 2025 de Imed como cobro real confirmado**
+Con la aclaración posterior de Jero, abril-junio 2025 en la habitación 1 deben leerse como **vacante real desde abril 2025**, no como simple cobro no confirmado pendiente de aparecer.
 
 ## Tramo agosto 2025
 Ya fijado y compatible con el expediente tras la última aclaración de Jero:
@@ -90,13 +89,14 @@ Base operativa ya fijada:
 A día de hoy, si el objetivo es que el expediente cuadre mejor con la extracción ya hecha del Excel de Unicaja, la cifra de trabajo más sólida no es `13.122,00 €` sino:
 - **`12.837,00 €`**
 
-Y la principal corrección a introducir es esta:
-- **no tratar como confirmado el cobro de Imed de abril, mayo y junio de 2025 hasta verificarlo en el detalle bancario**.
+Y las dos correcciones principales introducidas son estas:
+- **no computar abril-mayo-junio 2025 de Imed porque la habitación quedó vacante desde abril**
+- **corregir agosto 2025 desde el neto erróneo de `212,00 €` a la renta prorrateada correcta de `812,00 €`**
 
 ## Siguiente cierre recomendado
 Para dejarlo al céntimo todavía faltaría un segundo nivel:
 1. leer el detalle movimiento a movimiento de la cuenta 5436 en 2025
 2. asignar cada cobro a mes y habitación
-3. confirmar si esos `885,00 €` faltan de verdad o están absorbidos bajo otro nombre / transferencia agrupada
+3. usar ese detalle como refuerzo documental, no para reabrir la vacante de Imed ya aclarada por Jero
 
 Hasta ese cierre fino, este documento debe tomarse como el mejor **cuadre intermedio prudente** entre contratos y Unicaja.
