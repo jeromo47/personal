@@ -76,7 +76,14 @@ Exceso arrastrable a 2025:
 ## 7. Reducción del 50 %
 No se aplica sobre ingresos brutos, sino sobre el **neto positivo del tramo nuevo** y solo si el inquilino acredita residencia habitual.
 
+Cierre provisional de trabajo:
+- tramo antiguo no bonificable: neto `3.627,37 €`
+- tramo nuevo: ingresos `5.612,00 €`
+- gastos + amortizaciones imputados al tramo nuevo: `2.094,12 €`
+- neto positivo del tramo nuevo: `3.517,88 €`
+- reducción 50 % provisional: `1.758,94 €`
+- rendimiento neto final 2025 tras reducción: `5.386,31 €`
+
 Pendiente de validación asesor:
-- cierre fino del neto reducible del tramo nuevo
 - prueba de residencia de los 4 nuevos inquilinos
 - criterio final sobre vacante de Imed / posible imputación complementaria

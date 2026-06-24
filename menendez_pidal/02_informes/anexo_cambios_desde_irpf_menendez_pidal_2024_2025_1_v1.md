@@ -11,8 +11,8 @@ Las cifras rectoras de trabajo siguen siendo las mismas:
 - rendimiento neto 2025 tras amortizaciones: **`7.491,85 €`**
 - arrastre 2024 a 2025: **`346,60 €`**
 - rendimiento neto 2025 antes del 50 %: **`7.145,25 €`**
-- escenario provisional de reducción del 50 %: **`1.562,45 €`**
-- rendimiento neto 2025 tras esa reducción provisional: **`5.582,80 €`**
+- escenario provisional de reducción del 50 %: **`1.758,94 €`**
+- rendimiento neto 2025 tras esa reducción provisional: **`5.386,31 €`**
 
 ## 2. Se ha construido ya la matriz maestra de ingresos 2025 por habitación y mes
 Se ha dejado cerrada la hoja maestra de ingresos por habitación y por mes para todo 2025.

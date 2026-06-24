@@ -22,10 +22,11 @@ La reducción del 50 % solo puede aplicarse sobre el **rendimiento neto positivo
 
 ## Escenario provisional de trabajo si aplicaran las 4 habitaciones
 - neto 2025 antes del 50 %: `7.145,25 €`
-- proporción de ingresos del tramo nuevo sobre ingresos anuales: `5.612 / 12.837 = 43,72 %`
-- neto atribuible provisional al tramo nuevo: `3.124,90 €`
-- reducción 50 % provisional: `1.562,45 €`
-- neto 2025 tras reducción provisional: `5.582,80 €`
+- ingresos brutos del tramo nuevo desde `11/08/2025`: `5.612,00 €`
+- gastos + amortizaciones imputados al tramo nuevo: `2.094,12 €`
+- neto positivo provisional del tramo nuevo: `3.517,88 €`
+- reducción 50 % provisional: `1.758,94 €`
+- neto 2025 tras reducción provisional: `5.386,31 €`
 
 ## Prueba documental pendiente
 - empadronamiento con fecha útil

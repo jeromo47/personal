@@ -69,22 +69,41 @@ Desglose de trabajo:
 - **rendimiento neto provisional 2025 antes del 50 %: `7.145,25 €`**
 
 ## Reducción del 50 %
-Aquí no quiero cerrar nada en falso.
+Aquí no quiero cerrar nada en falso, pero ya dejo el cierre de trabajo bastante más bajado.
 
 Mi criterio es:
 - el 50 % **no** va sobre el neto anual completo de `7.145,25 €`
-- solo puede ir sobre el **tramo nuevo**
+- solo puede ir sobre el **tramo nuevo** desde `11/08/2025`
 - habitación por habitación
 - y solo si hay prueba suficiente de residencia habitual en 2025
 
-### Pendiente para cerrar bien
+### Cierre provisional por tramos
+#### Tramo antiguo no bonificable
+- ingresos: `7.225,00 €`
+- gastos, amortizaciones y arrastre imputados: `3.597,63 €`
+- neto del tramo antiguo: `3.627,37 €`
+- reducción 50 %: `0,00 €`
+
+#### Tramo nuevo bonificable provisional
+- ingresos: `5.612,00 €`
+- gastos + amortizaciones imputados al tramo: `2.094,12 €`
+- neto positivo del tramo nuevo: `3.517,88 €`
+- reducción 50 % provisional: `1.758,94 €`
+- neto del tramo nuevo tras reducción: `1.758,94 €`
+
+### Resultado final provisional 2025
+- neto anual antes del 50 %: `7.145,25 €`
+- menos reducción 50 % aplicada solo al tramo nuevo: `1.758,94 €`
+- **rendimiento neto final 2025: `5.386,31 €`**
+
+### Pendiente para cierre definitivo
 - empadronamiento con fecha útil de 2025
 - prueba laboral / equivalente por inquilino
-- prorrateo del neto del tramo nuevo para calcular bien la reducción
+- validación final del asesor sobre el neto reducible del tramo nuevo
 
 ## Punto que quiero que me revises
 Quiero que me confirmes si este encaje te parece correcto y, sobre todo:
-- cómo prorratear bien el 50 % entre tramo antiguo y tramo nuevo,
+- si compras esta separación entre tramo antiguo y tramo nuevo bonificable,
 - si la vacante de la habitación 1 obliga a alguna imputación adicional (de momento la dejo abierta a tu valoración, no cerrada como cifra definitiva),
 - y si dejarías igual:
   - seguro 2025
