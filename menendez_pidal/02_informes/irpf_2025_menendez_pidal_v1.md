@@ -85,22 +85,27 @@ Mi criterio es:
 - neto del tramo antiguo: `3.627,37 €`
 - reducción 50 %: `0,00 €`
 
-#### Tramo nuevo bonificable provisional
-- ingresos: `5.612,00 €`
-- gastos + amortizaciones imputados al tramo: `2.094,12 €`
-- neto positivo del tramo nuevo: `3.517,88 €`
-- ese neto corresponde todavía al conjunto del tramo nuevo, no a una base ya depurada solo para los inquilinos con empadronamiento
-- por prudencia, este documento deja de momento la reducción como **pendiente de ajuste fino** a la situación real de Lucía, German, Maria Carolina y Javier
+#### Tramo nuevo bonificable prudente (Lucía + German)
+- ingresos: `2.806,00 €`
+- gastos + amortizaciones imputados al subtramo: `997,01 €`
+- neto bonificable prudente: `1.808,99 €`
+- reducción 50 % prudente: `904,50 €`
+- neto de Lucía + German tras reducción: `904,49 €`
+
+#### Tramo nuevo no bonificable prudente (Maria Carolina + Javier)
+- ingresos: `2.806,00 €`
+- gastos + amortizaciones imputados al subtramo: `1.097,11 €`
+- neto no bonificable prudente: `1.708,89 €`
 
 ### Resultado final provisional 2025
 - neto anual antes del 50 %: `7.145,25 €`
-- la reducción exacta ya no debe darse por cerrada automáticamente sobre las 4 habitaciones nuevas
-- el cierre correcto exige ajustar la base bonificable a la situación real de los inquilinos con prueba suficiente
+- menos reducción prudente aplicada solo a Lucía y German: `904,50 €`
+- **rendimiento neto final 2025: `6.240,75 €`**
 
 ### Pendiente para cierre definitivo
 - empadronamiento con fecha útil de 2025 de Lucía y German
 - decidir si Maria Carolina y Javier quedan fuera por prudencia o si aparece prueba equivalente suficiente
-- validación final del asesor sobre la base reducible exacta del tramo nuevo
+- validación final del asesor sobre esta limitación de la reducción a solo dos habitaciones
 
 ## Punto que quiero que me revises
 Quiero que me confirmes si este encaje te parece correcto y, sobre todo:

@@ -23,11 +23,16 @@ La reducción del 50 % solo puede aplicarse sobre el **rendimiento neto positivo
 
 ## Escenario provisional de trabajo
 - neto 2025 antes del 50 %: `7.145,25 €`
-- ingresos brutos del tramo nuevo desde `11/08/2025`: `5.612,00 €`
-- gastos + amortizaciones imputados al tramo nuevo: `2.094,12 €`
-- neto positivo provisional del tramo nuevo: `3.517,88 €`
-- esta cifra sigue siendo la base global del tramo nuevo, no la base ya depurada solo para Lucía y German
-- por prudencia, la reducción definitiva queda pendiente de ajustar a los dos inquilinos con empadronamiento y al criterio final del asesor
+- Lucía + German:
+  - ingresos `2.806,00 €`
+  - gastos + amortizaciones imputados `997,01 €`
+  - neto bonificable prudente `1.808,99 €`
+  - reducción 50 % provisional `904,50 €`
+- Maria Carolina + Javier:
+  - ingresos `2.806,00 €`
+  - gastos + amortizaciones imputados `1.097,11 €`
+  - neto no bonificable prudente `1.708,89 €`
+- con esta postura, el rendimiento neto final 2025 pasa provisionalmente a `6.240,75 €`
 
 ## Prueba documental pendiente
 - empadronamiento con fecha útil de Lucía y German

@@ -1,4 +1,5 @@
 bloque,periodo,ingresos_brutos,gastos_y_amortizaciones_imputados,neto_antes_50,reduccion_50_aplicable,neto_tras_50,criterio
 Tramo antiguo no bonificable,2025-01-01 a 2025-08-10,7225.00,3597.63,3627.37,0.00,3627.37,Tramo antiguo sin aplicacion de reduccion por vivienda habitual
-Tramo nuevo bonificable provisional,2025-08-11 a 2025-12-31,5612.00,2094.12,3517.88,1758.94,1758.94,Reduccion 50 por ciento solo sobre neto positivo del tramo nuevo si se defiende vivienda habitual
-TOTAL 2025,2025-01-01 a 2025-12-31,12837.00,5691.75,7145.25,1758.94,5386.31,Total anual con reduccion aplicada solo al tramo nuevo
+Tramo nuevo no bonificable H3+H4,2025-08-11 a 2025-12-31,2806.00,1097.11,1708.89,0.00,1708.89,Maria Carolina y Javier fuera por prudencia salvo prueba equivalente suficiente
+Tramo nuevo bonificable H1+H2,2025-08-11 a 2025-12-31,2806.00,997.01,1808.99,904.50,904.49,Lucia y German con mejor defensa por empadronamiento
+TOTAL 2025,2025-01-01 a 2025-12-31,12837.00,5691.75,7145.25,904.50,6240.75,Total anual con reduccion aplicada solo a Lucia y German

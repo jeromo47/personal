@@ -19,21 +19,29 @@ Dejar explicitado en una sola hoja que la reducción del 50 % **solo** se aplica
 - neto del tramo antiguo: **`3.627,37 €`**
 - reducción 50 %: **`0,00 €`**
 
-### 2. Tramo nuevo bonificable provisional
+### 2. Tramo nuevo no bonificable (María Carolina + Javier)
 - periodo: `11/08/2025` a `31/12/2025`
-- ingresos brutos: **`5.612,00 €`**
-- gastos + amortizaciones imputados al tramo: **`2.094,12 €`**
-- neto positivo del tramo nuevo: **`3.517,88 €`**
-- reducción 50 % provisional: **`1.758,94 €`**
-- neto del tramo nuevo tras reducción: **`1.758,94 €`**
+- ingresos brutos: **`2.806,00 €`**
+- gastos + amortizaciones imputados: **`1.097,11 €`**
+- neto de este subtramo: **`1.708,89 €`**
+- reducción 50 %: **`0,00 €`**
+
+### 3. Tramo nuevo bonificable prudente (Lucía + German)
+- periodo: `11/08/2025` a `31/12/2025`
+- ingresos brutos: **`2.806,00 €`**
+- gastos + amortizaciones imputados: **`997,01 €`**
+- neto positivo bonificable: **`1.808,99 €`**
+- reducción 50 % prudente: **`904,50 €`**
+- neto de este subtramo tras reducción: **`904,49 €`**
 
 ## Resultado final 2025
 - neto anual antes del 50 %: **`7.145,25 €`**
-- menos reducción del 50 % aplicada solo al tramo nuevo: **`1.758,94 €`**
-- **rendimiento neto final 2025: `5.386,31 €`**
+- menos reducción del 50 % aplicada solo a Lucía y German: **`904,50 €`**
+- **rendimiento neto final 2025: `6.240,75 €`**
 
 ## Nota de criterio
 Esta hoja no sustituye la validación final del asesor. Su función es dejar ya cristalizado en la documentación de trabajo que:
 - el 50 % no se aplica sobre el neto anual completo
-- la base reducible es solo el neto positivo del tramo nuevo
-- y el cierre final depende de que ese tramo se defienda como vivienda habitual con soporte suficiente
+- la base reducible no debe darse por cerrada sobre las 4 habitaciones nuevas
+- la postura prudente actual es defender mejor solo a Lucía y German
+- y el cierre final depende de que ese planteamiento lo compre el asesor con el soporte documental disponible
