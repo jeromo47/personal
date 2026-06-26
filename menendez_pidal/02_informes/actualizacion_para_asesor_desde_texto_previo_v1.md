@@ -25,7 +25,7 @@ Ingresos en mi cuenta de Unicaja.
 
 Desglose de trabajo:
 - tramo antiguo enero-julio: **7.225,00 €** (contrato de 07/2024-07/2025)
-- agosto 2025: **812,00 €** (prorrateo desde entrada de nuevos inquilinos del mes + 1.200 € de fianza - 600 € de honorarios de agencia sin factura, fuera de gasto deducible)
+- agosto 2025: **812,00 €** de renta
 - septiembre-diciembre: **4.800,00 €**
 - **total ingresos 2025: 12.837,00 €**
 
@@ -116,7 +116,7 @@ La postura prudente pasa a ser **defender solo a Lucía y German**, porque son l
 - menos reducción prudente aplicada solo a Lucía y German: **904,50 €**
 - **rendimiento neto final 2025: 6.240,75 €**
 
-### Reducción del 50 %
+### Situación prudente actual del 50 %
 - habitación por habitación con prueba suficiente de residencia habitual en 2025
 - a día de hoy, la postura prudente es:
   - **Lucía y German: sí defender**
