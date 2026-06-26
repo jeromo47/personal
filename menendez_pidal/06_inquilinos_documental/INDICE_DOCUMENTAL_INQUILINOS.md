@@ -37,4 +37,8 @@ Carpeta: `06_inquilinos_documental/h4_javier_gonzalo_ortubia/`
   - prueba laboral / equivalente
 
 ## Nota práctica
-A día de hoy, esta estructura deja el bloque documental visible y ordenado, pero la defensa plena de la reducción del 50 % sigue pendiente de la prueba de residencia efectiva de cada inquilino.
+A día de hoy, esta estructura deja el bloque documental visible y ordenado.
+
+Situación prudente actual de trabajo:
+- **Lucía** y **German** son los dos casos con mejor defensa, porque el usuario espera tener volante/certificado de empadronamiento
+- **Maria Carolina** y **Javier** quedan de momento fuera de la postura prudente salvo que aparezca prueba equivalente suficiente de residencia efectiva

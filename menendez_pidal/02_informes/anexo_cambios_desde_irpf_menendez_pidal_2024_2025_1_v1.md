@@ -11,8 +11,8 @@ Las cifras rectoras de trabajo siguen siendo las mismas:
 - rendimiento neto 2025 tras amortizaciones: **`7.491,85 €`**
 - arrastre 2024 a 2025: **`346,60 €`**
 - rendimiento neto 2025 antes del 50 %: **`7.145,25 €`**
-- escenario provisional de reducción del 50 %: **`1.758,94 €`**
-- rendimiento neto 2025 tras esa reducción provisional: **`5.386,31 €`**
+- el escenario provisional global del tramo nuevo sigue sirviendo como referencia de trabajo, pero ya no debe presentarse como reducción automáticamente defendible para las 4 habitaciones
+- la nueva postura prudente pasa a ser **defender con más seguridad solo a Lucía y German**, porque son los dos únicos nuevos inquilinos respecto de los que el usuario espera tener empadronamiento
 
 ## 2. Se ha construido ya la matriz maestra de ingresos 2025 por habitación y mes
 Se ha dejado cerrada la hoja maestra de ingresos por habitación y por mes para todo 2025.
@@ -65,8 +65,9 @@ Ya existe una pieza separada para el análisis del 50 %.
 
 Ahí queda visible:
 - el inicio de los 4 contratos nuevos el **`11/08/2025`**
-- el estado actual **pendiente** de prueba documental suficiente
-- el escenario provisional si aplicaran las 4 habitaciones
+- que **Lucía y German** son hoy los dos casos con mejor defensa
+- que **Maria Carolina y Javier** quedan de momento fuera de la postura prudente salvo prueba equivalente adicional
+- y que la base reducible final exige ajuste fino asesor
 
 ## 8. Se ha ordenado el bloque documental por inquilino
 Ahora existe una carpeta documental por cada uno de los 4 nuevos inquilinos con:

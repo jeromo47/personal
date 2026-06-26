@@ -15,15 +15,15 @@
 ## 3. Tabla reducción 50 % por habitación / inquilino
 **Estado:** hecha y revisada
 - archivo principal: `tabla_reduccion_50_inquilino_a_inquilino_menendez_pidal_v2.md`
-- deja visible el estado pendiente por falta de prueba de residencia
-- incluye escenario provisional si aplicaran las 4 habitaciones
+- deja visible que la postura prudente actual pasa por defender mejor a Lucía y German
+- deja a Maria Carolina y Javier fuera de la bonificación salvo prueba equivalente suficiente
 
 ## 4. Carpeta documental por cada inquilino
 **Estado:** hecha como estructura visible
 - carpeta base: `06_inquilinos_documental/`
 - índice: `06_inquilinos_documental/INDICE_DOCUMENTAL_INQUILINOS.md`
 - cada inquilino tiene su subcarpeta con adenda + declaración responsable
-- pendiente solo de completar con empadronamiento / prueba laboral si se obtiene
+- pendiente de completar sobre todo con empadronamiento / prueba laboral de Lucía y German
 
 ## 5. Memoria fiscal de criterio de 1 página
 **Estado:** hecha
@@ -34,6 +34,6 @@
 A día de hoy, el bloque `/personal` queda ya en un nivel razonablemente fino para entrega o revisión por asesor.
 
 Lo que sigue abierto no es desorden documental, sino validación final del asesor en:
-- prueba de residencia de los 4 nuevos inquilinos
+- prueba de residencia de Lucía y German y criterio definitivo sobre Maria Carolina y Javier
 - cierre fino del neto reducible del tramo nuevo
 - eventual tratamiento de la vacante de Imed

@@ -81,9 +81,9 @@ Cierre provisional de trabajo:
 - tramo nuevo: ingresos `5.612,00 €`
 - gastos + amortizaciones imputados al tramo nuevo: `2.094,12 €`
 - neto positivo del tramo nuevo: `3.517,88 €`
-- reducción 50 % provisional: `1.758,94 €`
-- rendimiento neto final 2025 tras reducción: `5.386,31 €`
+- de momento la postura prudente pasa a ser **defender solo Lucía y German**, porque son los dos únicos nuevos inquilinos respecto de los que el usuario espera tener empadronamiento
+- por tanto, la reducción del 50 % ya no debe presentarse como automáticamente defendible para las 4 habitaciones nuevas
 
 Pendiente de validación asesor:
-- prueba de residencia de los 4 nuevos inquilinos
+- cuantificar la base reducible exacta si solo se bonifican Lucía y German
 - criterio final sobre vacante de Imed / posible imputación complementaria

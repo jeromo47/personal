@@ -76,6 +76,7 @@ Mi criterio es:
 - solo puede ir sobre el **tramo nuevo** desde `11/08/2025`
 - habitación por habitación
 - y solo si hay prueba suficiente de residencia habitual en 2025
+- a día de hoy, la postura prudente pasa a ser **defender con más seguridad solo a Lucía y German**, porque son los únicos dos nuevos inquilinos respecto de los que el usuario espera tener volante/certificado de empadronamiento
 
 ### Cierre provisional por tramos
 #### Tramo antiguo no bonificable
@@ -88,22 +89,23 @@ Mi criterio es:
 - ingresos: `5.612,00 €`
 - gastos + amortizaciones imputados al tramo: `2.094,12 €`
 - neto positivo del tramo nuevo: `3.517,88 €`
-- reducción 50 % provisional: `1.758,94 €`
-- neto del tramo nuevo tras reducción: `1.758,94 €`
+- ese neto corresponde todavía al conjunto del tramo nuevo, no a una base ya depurada solo para los inquilinos con empadronamiento
+- por prudencia, este documento deja de momento la reducción como **pendiente de ajuste fino** a la situación real de Lucía, German, Maria Carolina y Javier
 
 ### Resultado final provisional 2025
 - neto anual antes del 50 %: `7.145,25 €`
-- menos reducción 50 % aplicada solo al tramo nuevo: `1.758,94 €`
-- **rendimiento neto final 2025: `5.386,31 €`**
+- la reducción exacta ya no debe darse por cerrada automáticamente sobre las 4 habitaciones nuevas
+- el cierre correcto exige ajustar la base bonificable a la situación real de los inquilinos con prueba suficiente
 
 ### Pendiente para cierre definitivo
-- empadronamiento con fecha útil de 2025
-- prueba laboral / equivalente por inquilino
-- validación final del asesor sobre el neto reducible del tramo nuevo
+- empadronamiento con fecha útil de 2025 de Lucía y German
+- decidir si Maria Carolina y Javier quedan fuera por prudencia o si aparece prueba equivalente suficiente
+- validación final del asesor sobre la base reducible exacta del tramo nuevo
 
 ## Punto que quiero que me revises
 Quiero que me confirmes si este encaje te parece correcto y, sobre todo:
 - si compras esta separación entre tramo antiguo y tramo nuevo bonificable,
+- si, a falta de empadronamiento de Maria Carolina y Javier, ves prudente limitar la reducción solo a Lucía y German,
 - si la vacante de la habitación 1 obliga a alguna imputación adicional (de momento la dejo abierta a tu valoración, no cerrada como cifra definitiva),
 - y si dejarías igual:
   - seguro 2025

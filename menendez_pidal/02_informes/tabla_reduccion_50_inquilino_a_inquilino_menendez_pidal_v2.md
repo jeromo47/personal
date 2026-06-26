@@ -16,19 +16,20 @@ La reducción del 50 % solo puede aplicarse sobre el **rendimiento neto positivo
 - H4 · Javier Gonzalo Ortubia · DNI `X5397258D`
 
 ## Estado actual
-- los 4 casos quedan en **Pendiente** hasta que conste prueba suficiente de residencia habitual
+- **Lucía** y **German** pasan a ser los dos casos con mejor defensa, porque el usuario espera tener de ellos empadronamiento
+- **Maria Carolina** y **Javier** quedan de momento en posición prudente de **No defender / pendiente de prueba equivalente suficiente**
 - la reducción no se cierra sobre el neto anual completo de `7.145,25 €`
-- falta el cierre fino del **neto reducible del tramo nuevo** habitación por habitación
+- falta el cierre fino del **neto reducible del tramo nuevo** ajustado a los inquilinos realmente defendibles
 
-## Escenario provisional de trabajo si aplicaran las 4 habitaciones
+## Escenario provisional de trabajo
 - neto 2025 antes del 50 %: `7.145,25 €`
 - ingresos brutos del tramo nuevo desde `11/08/2025`: `5.612,00 €`
 - gastos + amortizaciones imputados al tramo nuevo: `2.094,12 €`
 - neto positivo provisional del tramo nuevo: `3.517,88 €`
-- reducción 50 % provisional: `1.758,94 €`
-- neto 2025 tras reducción provisional: `5.386,31 €`
+- esta cifra sigue siendo la base global del tramo nuevo, no la base ya depurada solo para Lucía y German
+- por prudencia, la reducción definitiva queda pendiente de ajustar a los dos inquilinos con empadronamiento y al criterio final del asesor
 
 ## Prueba documental pendiente
-- empadronamiento con fecha útil
-- prueba laboral / equivalente
+- empadronamiento con fecha útil de Lucía y German
+- decidir si Maria Carolina y Javier quedan fuera o si aparece prueba equivalente suficiente
 - cierre asesor del criterio de neto reducible por tramo

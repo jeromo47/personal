@@ -383,7 +383,7 @@ pero el asesor debería recalcularlo ya con la base imponible completa real de c
   - **2025: 1.423,76 €**
 
 ## Pendientes reales que siguen abiertos
-- prueba de residencia de los 4 inquilinos para poder aplicar reducción del 50 % con seguridad
+- prueba de residencia de Lucía y German y criterio final sobre si Maria Carolina y Javier quedan fuera de la reducción del 50 % por prudencia
 - validación final de la base amortizable patrimonial por parte del asesor
 - confirmar simplemente que el importe restante de `600,00 €` queda fuera de gasto deducible por falta de factura válida
 - decisión técnica final del asesor sobre si usa separación de reparación de `4.450 €` o criterio algo más amplio, aunque la línea recomendada aquí es la prudente
