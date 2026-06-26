@@ -1,0 +1,8 @@
+habitacion,inquilino_nuevo,contrato_desde,ingreso_etapa_nueva,gastos_y_amortizaciones_imputados,neto_reducible_prudente,prueba_residencia,aplica_50,observaciones
+H1,Lucia Florencia Tersoglio,2025-08-11,1403.00,494.84,908.16,Empadronamiento esperado + declaracion responsable,Sí aplica,Base defendible prudente si se aporta volante/certificado
+H2,German Osvaldo Cordero Fuentealba,2025-08-11,1403.00,502.17,900.83,Empadronamiento esperado + declaracion responsable,Sí aplica,Base defendible prudente si se aporta volante/certificado
+H3,Maria Carolina Naalband de Rasis,2025-08-11,1403.00,502.17,900.83,Sin empadronamiento; solo declaracion responsable,No defender,Fuera por prudencia salvo prueba equivalente suficiente
+H4,Javier Gonzalo Ortubia,2025-08-11,1403.00,594.94,808.06,Sin empadronamiento; solo declaracion responsable,No defender,Fuera por prudencia salvo prueba equivalente suficiente
+TRAMO_ANTIGUO,No procede,2025-01-01,7225.00,3597.63,3627.37,No aplica,No defender,Etapa antigua fuera de la reduccion del 50 por ciento
+TOTAL_BONIFICABLE_PRUDENTE,Lucia+German,2025-08-11,2806.00,997.01,1808.99,Empadronamiento de ambos,Sí aplica,Reduccion 50 por ciento prudente = 904.50
+TOTAL_NO_BONIFICABLE_NUEVO,Maria+Javier,2025-08-11,2806.00,1097.11,1708.89,Sin empadronamiento,No defender,Tramo nuevo no bonificado por prudencia
